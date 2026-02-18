@@ -1,0 +1,35 @@
+## 
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+subitems:
+- title: Home
+  url: /index
+- title: Moduli Tematici
+  subitems:
+    - title: Modulo 1
+      url: /Modulo1
+    - title: Modulo 2
+      url: /Modulo2
+    - title: Modulo 3
+      url: /Modulo3
+    - title: Modulo 4
+      url: /Modulo4
+    - title: Modulo 5
+      url: /Modulo5
+- title: Tutorials
+  subitems:
+    - title: Introduzione alla Console R
+      url: /Introduzione_alla_Console_R
+    - title: Vettori in R
+      url: /Vettori_in_R
+    - title: Fattori in R
+      url: /Fattori_in_R
+    - title: Matrici in R
+      url: /Matrici_in_R
+    - title: Data frame in R
+      url: /Dataframe_in_R
+    - title: ABC Grafici in R
+      url: /ABC_Grafici
+    - title: Liste in R
+      url: /Liste_in_R
+    
+
