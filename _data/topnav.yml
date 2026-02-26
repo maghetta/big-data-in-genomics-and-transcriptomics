@@ -3,7 +3,7 @@
 subitems:
 - title: Home
   url: /index
-- title: Arogomenti
+- title: Argomenti
   subitems:
     - title: Massive sequencing
       url: /Modulo1
@@ -11,7 +11,7 @@ subitems:
       url: /Modulo2
     - title: Genomic databases
       url: /Modulo3
-    - title: Large-scale initiatives in biomedicine
+    - title: International Consortia and Large-Scale Omics Projects
       url: /Modulo4
     - title: Genome browsers
       url: /Modulo5
