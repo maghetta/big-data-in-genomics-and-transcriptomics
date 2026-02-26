@@ -5,11 +5,11 @@ subitems:
   url: /index
 - title: Argomenti
   subitems:
-    - title: Massive sequencing
+    - title: High-Throughput Sequencing
       url: /modulo1
-    - title: Data formats
+    - title: Common Omics Data Formats
       url: /modulo2
-    - title: Genomic databases
+    - title: Genomic Databases and Resources
       url: /modulo3
     - title: International Consortia and Large-Scale Omics Projects
       url: /modulo4
