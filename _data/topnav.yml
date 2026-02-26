@@ -6,15 +6,15 @@ subitems:
 - title: Argomenti
   subitems:
     - title: Massive sequencing
-      url: /Modulo1
+      url: /modulo1
     - title: Data formats
-      url: /Modulo2
+      url: /modulo2
     - title: Genomic databases
-      url: /Modulo3
+      url: /modulo3
     - title: International Consortia and Large-Scale Omics Projects
-      url: /Modulo4
+      url: /modulo4
     - title: Genome browsers
-      url: /Modulo5
+      url: /modulo5
 - title: Tutorials
   subitems:
     - title: Introduzione alla Console R
