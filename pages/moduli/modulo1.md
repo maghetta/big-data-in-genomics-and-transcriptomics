@@ -10,8 +10,6 @@ title:
 
 - Tecnologie di sequenziamento massivo: cenni storici, scopi e applicazioni; 
 
-- Formati di dati per l’analisi genomica e trascrittomica: sequenze, intervalli genomici e annotazioni geniche
-
 
 <br>
 <br>
