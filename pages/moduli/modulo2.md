@@ -16,22 +16,7 @@ title:
 
 Al termine di questa attività dovresti essere in grado di:
 
-- descrivere cos'è e come si crea una matrice in R
-
--assegnare i nomi alle righe e/o alle colonne di una matrice
-
-- calcolare la somma degli elementi di ogni riga o di ogni colonna di una matrice numerica
-
-- aggiungere una o più colonne ad una matrice
-
-- aggiungere una o più righe ad una matrice
-
-- ispezionare il contenuto del tuo spazio di lavoro (workspace)
-
-- selezionare gli elementi di una matrice
-
-- effettuare delle operazioni matematiche (es. +, -, /, \*) con matrici numeriche
-
+- Descrivere le caratteristiche e gli scopi dei principali formati di dati omici (es. FASTQ, GTF/GFF e BED)
 
 
 ## Durata e programma dell'attività:
