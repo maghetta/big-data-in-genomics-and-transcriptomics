@@ -1,5 +1,5 @@
 ---
-title: 1
+title:
 ---
 
 ![modulo1](images/modulo1/modulo1.jpg)
