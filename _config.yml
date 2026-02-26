@@ -46,6 +46,7 @@ theme_variables:
   #   headings: 'h2'
   # topnav:
     # theme: light
+    # brand_logo: assets/img/main_logo.svg
     # github: true
     # twitter: false
   # theme_color: 0d6efd
