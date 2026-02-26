@@ -25,7 +25,6 @@ Al termine di questa attività dovresti essere in grado di:
 - Spiegare in cosa consista il processo di "sequencing by synthesis"
 - Descrivere il sequenziamento genomico basato su tecnologia Illumina
 - Descrivere le caratteristiche principali che distinguono tecniche di sequenziamento di prima, seconda ('Next Generation Sequencing') e terza generazione
-- Descrivere le caratteristiche e gli scopi dei principali formati di dati omici (es. FASTQ, GTF/GFF e BED)
 <br>
 <br>
 
