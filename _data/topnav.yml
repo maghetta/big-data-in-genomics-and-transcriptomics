@@ -3,17 +3,17 @@
 subitems:
 - title: Home
   url: /index
-- title: Moduli Tematici
+- title: Arogomenti
   subitems:
-    - title: Modulo 1
+    - title: Massive sequencing
       url: /Modulo1
-    - title: Modulo 2
+    - title: Data formats
       url: /Modulo2
-    - title: Modulo 3
+    - title: Genomic databases
       url: /Modulo3
-    - title: Modulo 4
+    - title: Large-scale initiatives in biomedicine
       url: /Modulo4
-    - title: Modulo 5
+    - title: Genome browsers
       url: /Modulo5
 - title: Tutorials
   subitems:
