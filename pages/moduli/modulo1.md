@@ -1,5 +1,5 @@
 ---
-title: Modulo 1
+title: 1
 ---
 
 ![modulo1](images/modulo1/modulo1.jpg)
@@ -8,11 +8,9 @@ title: Modulo 1
 
 ## Argomenti
 
-- Il linguaggio di programmazione R 
+- Tecnologie di sequenziamento massivo: cenni storici, scopi e applicazioni; 
 
-- Introduzione alla console di R
-  
-- Vettori e Fattori in R
+- Formati di dati per l’analisi genomica e trascrittomica: sequenze, intervalli genomici e annotazioni geniche
 
 
 <br>
@@ -25,28 +23,11 @@ title: Modulo 1
 Al termine di questa attività dovresti essere in grado di:
 <br>
 
-- descrivere cos'è la console di R (anche detto terminale)
-- eseguire dei comandi nella console di R
-- scrivere una riga di commento in un codice R
-- utilizzare il terminale di R come una semplice calcolatrice
-- descrivere cos'è una variabile
-- creare una nuova variabile in R o assegnare un valore ad una variabile già esistente
-- eseguire operazioni su variabili, come ad esempio la somma di due variabili di tipo numerico
-- elencare almeno 3 tipi diversi di variabili
-- creare una variabile di tipo carattere
-- elencare i possibili valori per una variabile di tipo booleano
-- verificare di che tipo è una data variabile
-- effettuare la somma di tutti gli elementi di un vettore
-- elencare gli operatori di confronto (logici) disponibili in R
-- confrontare 2 variabili numeriche
-- selezionare uno o più elementi da un vettore
-- calcolare la media di un vettore numerico
-- selezionare elementi di un vettore in base ad una condizione posta
-- fornire qualche esempio di variabile categorica
-- descrivere cos'è e come si crea un fattore in R
-- distinguere una variabile categorica nominale da una variabile categorica ordinale
-- confrontare variabili categoriche ordinali
-
+- Distinguere genomica e trascrittomica definendone l’oggetto di studio e illustrandone esempi di applicazione
+- Spiegare in cosa consista il processo di "sequencing by synthesis"
+- Descrivere il sequenziamento genomico basato su tecnologia Illumina
+- Descrivere le caratteristiche principali che distinguono tecniche di sequenziamento di prima, seconda ('Next Generation Sequencing') e terza generazione
+- Descrivere le caratteristiche e gli scopi dei principali formati di dati omici (es. FASTQ, GTF/GFF e BED)
 <br>
 <br>
 
