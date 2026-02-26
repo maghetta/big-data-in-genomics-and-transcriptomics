@@ -1,7 +1,7 @@
-title: R programming
+title: Big data in genomics and transcriptomics
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: R programming
+topnav_title: Big data in genomics and transcriptomics
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
 description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
