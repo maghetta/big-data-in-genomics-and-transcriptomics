@@ -1,5 +1,5 @@
 ---
-title: Modulo 2
+title:
 ---
 
 ![modulo2](images/modulo2/modulo2.jpg)
@@ -8,7 +8,7 @@ title: Modulo 2
 
 ## Argomenti
 
-- Matrici in R, cioé il capitolo 3 del corso di Introduzione a R di DataCamp
+- Formati di dati per l’analisi genomica e trascrittomica: sequenze, intervalli genomici e annotazioni geniche
 
 <hr>
 
