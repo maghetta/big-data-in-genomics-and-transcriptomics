@@ -83,5 +83,6 @@ ___
 
 ### Riferimenti utili
 
-- <span style="color:blue;">RNA-Seq Data Analysis in Galaxy: [Batut B, van den Beek M, Doyle MA, Soranzo N., Methods Mol Biol. 2021;2284:367-392. doi: 10.1007/978-1-0716-1307-8_20. PMID: 33835453.](https://pubmed.ncbi.nlm.nih.gov/33835453/)</span>
+- <span style="color:blue;"> RNA-Seq Data Analysis in Galaxy: [Batut B, van den Beek M, Doyle MA, Soranzo N., Methods Mol Biol. 2021;2284:367-392. doi: 10.1007/978-1-0716-1307-8_20. PMID: 33835453.](https://pubmed.ncbi.nlm.nih.gov/33835453/)</span>
+- <span style="color:blue;"> Galaxy Project video documentation and training resources [official YouTube channel for the Galaxy Project](https://www.youtube.com/@GalaxyProject)</span>
 
