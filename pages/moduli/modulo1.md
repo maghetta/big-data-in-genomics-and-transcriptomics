@@ -6,27 +6,25 @@ title:
 
 <br>
 
-## Argomenti
+## Topics
 
-- Tecnologie di sequenziamento massivo: cenni storici, scopi e applicazioni
+- High-Throughput Sequencing (HTS) technologies: historical overview and applications
+- The sequencing-by-synthesis approach
+- Common *omics* data formats
 
 <br>
 <br>
 
-## Obiettivi conoscitivi
+## Learning Objectives
 
-
-Al termine di questa attività dovresti essere in grado di:
+By the end of this activity, you should be able to:
 <br>
+- Distinguish between genomics and transcriptomics by defining their object of study and providing examples of their applications
+- Explain what the “sequencing-by-synthesis” process consists of
+- Describe genomic sequencing based on Illumina technology
+- Outline the main features that distinguish first-, second- (“Next Generation Sequencing”), and third-generation sequencing technologies
 
-- Distinguere genomica e trascrittomica definendone l’oggetto di studio e illustrandone esempi di applicazione
-- Spiegare in cosa consista il processo di "sequencing-by-synthesis"
-- Descrivere il sequenziamento genomico basato su tecnologia Illumina
-- Descrivere le caratteristiche principali che distinguono tecniche di sequenziamento di prima, seconda ('Next Generation Sequencing') e terza generazione
 <br>
-<br>
-
-
 
 <br>
 
@@ -34,7 +32,7 @@ Al termine di questa attività dovresti essere in grado di:
 
 <br>
 
-### Un passo indietro: perché imparare a programmare?
+### xxxx
 
 Programmare vuol dire saper scrivere una serie di istruzioni (**un programma**) che una macchina (ad esempio, il computer su cui stai lavorando) sappia interpretare ed eseguire. 
 Un programma è dunque un gruppo di operazioni (esempio funzioni logiche o matematiche) da svolgere in un dato ordine stabilito, che portano a compimento una data attività. 
@@ -84,5 +82,5 @@ ___
 ### Riferimenti utili
 
 - <span style="color:blue;"> RNA-Seq Data Analysis in Galaxy: [Batut B, van den Beek M, Doyle MA, Soranzo N., Methods Mol Biol. 2021;2284:367-392. doi: 10.1007/978-1-0716-1307-8_20. PMID: 33835453.](https://pubmed.ncbi.nlm.nih.gov/33835453/)</span>
-- <span style="color:blue;"> Galaxy Project video documentation and training resources [official YouTube channel for the Galaxy Project](https://www.youtube.com/@GalaxyProject)</span>
+- <span style="color:blue;"> Galaxy Project video documentation and training resources: [official YouTube channel for the Galaxy Project](https://www.youtube.com/@GalaxyProject)</span>
 
