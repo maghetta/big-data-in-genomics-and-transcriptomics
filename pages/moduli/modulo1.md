@@ -8,12 +8,10 @@ title:
 
 ## Argomenti
 
-- Tecnologie di sequenziamento massivo: cenni storici, scopi e applicazioni; 
-
+- Tecnologie di sequenziamento massivo: cenni storici, scopi e applicazioni
 
 <br>
 <br>
-
 
 ## Obiettivi conoscitivi
 
@@ -22,56 +20,17 @@ Al termine di questa attività dovresti essere in grado di:
 <br>
 
 - Distinguere genomica e trascrittomica definendone l’oggetto di studio e illustrandone esempi di applicazione
-- Spiegare in cosa consista il processo di "sequencing by synthesis"
+- Spiegare in cosa consista il processo di "sequencing-by-synthesis"
 - Descrivere il sequenziamento genomico basato su tecnologia Illumina
 - Descrivere le caratteristiche principali che distinguono tecniche di sequenziamento di prima, seconda ('Next Generation Sequencing') e terza generazione
 <br>
 <br>
 
-## Durata e programma dell'attività:
 
-3 ore;
-
-<table border="1" width="700">
-	<tr>
-		<td>[20']</td>
-		<td>R: una panoramica introduttiva (cosa è, diffusione, vantaggi)</td>
-	</tr>
-	<tr>
-		<td>[40']</td>
-		<td>Svolgimento tutorial: Introduzione alla Console R</td>
-	</tr>
-	<tr>
-		<td></td>td>
-		<td>Sfide interattive sul contenuto del tutorial</td>		
-	</tr>
-	<tr>
-	<td colspan="2">pausa 10'</td>
-	</tr>
-	<tr>
-		<td>[50']</td>
-		<td>Svolgimento tutorial: Vettori in R</td>
-	</tr>
-	<tr>
-		<td></td>td>
-		<td>Sfide interattive sul contenuto del tutorial</td>		
-	</tr>
-	<tr>
-	<td colspan="2">pausa 10'</td>
-	</tr>	
-	<tr>
-		<td>[50']</td>
-		<td>Svolgimento tutorial: Fattori in R</td>		
-	</tr>	
-	<tr>
-		<td></td>td>
-		<td>Sfide interattive sul contenuto del tutorial</td>		
-	</tr>
-</table>
 
 <br>
 
-## Introduzione all'attività del modulo
+##  High-throughput sequencing technologies (HTS)
 
 <br>
 
@@ -124,5 +83,5 @@ ___
 
 ### Riferimenti utili
 
-- <span style="color:blue;">Progetto R - sito ufficiale: [https://www.r-project.org/](https://www.r-project.org/)</span>
-- <span style="color:blue;">Ebook del Prof. Federico Reali:[Note dal aboratorio di R del corso di Probabilità e Statistica Matematica - aa 2018/2019](https://thefreolo.github.io/book/primi-passi-con-r.html)</span>
+- <span style="color:blue;">RNA-Seq Data Analysis in Galaxy: [Batut B, van den Beek M, Doyle MA, Soranzo N., Methods Mol Biol. 2021;2284:367-392. doi: 10.1007/978-1-0716-1307-8_20. PMID: 33835453.](https://pubmed.ncbi.nlm.nih.gov/33835453/)</span>
+
