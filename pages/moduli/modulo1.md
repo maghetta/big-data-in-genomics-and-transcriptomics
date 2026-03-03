@@ -20,10 +20,14 @@ title:
 
 By the end of this activity, you should be able to:
 <br>
-- Distinguish between genomics and transcriptomics by defining their object of study and providing examples of their applications
-- Explain what the “sequencing-by-synthesis” process consists of
-- Describe genomic sequencing based on Illumina technology
+- Distinguish between genomics and transcriptomics by defining their objects of study and providing examples of their applications
+- Describe the principles of the “sequencing-by-synthesis” process
+- Describe genomic sequencing using Illumina technology
 - Outline the main features that distinguish first-, second- (“Next Generation Sequencing”), and third-generation sequencing technologies
+- Describe the scope of mapping sequencing reads to the reference genome
+- Explain why the FASTQ data format is preferred for storing HTS raw data compared to FASTA
+- Explain the minimum information required to define a genomic coordinate
+  
 
 <br>
 
