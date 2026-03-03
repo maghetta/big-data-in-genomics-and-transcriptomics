@@ -27,6 +27,7 @@ By the end of this activity, you should be able to:
 - Describe the scope of mapping sequencing reads to the reference genome
 - Explain why the FASTQ data format is preferred for storing HTS raw data compared to FASTA
 - Explain the minimum information required to define a genomic coordinate
+- List at least three common applications of high-throughput sequencing in biomedical research
   
 
 <br>
