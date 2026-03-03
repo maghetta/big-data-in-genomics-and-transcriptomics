@@ -8,9 +8,10 @@ title:
 
 ## Topics
 
-- High-Throughput Sequencing (HTS) technologies: historical overview and applications
+- High-Throughput Sequencing (HTS) technologies
 - The sequencing-by-synthesis approach
 - Common *omics* data formats
+- Typical data analysis workflow
 
 <br>
 <br>
@@ -28,7 +29,7 @@ By the end of this activity, you should be able to:
 
 <br>
 
-##  High-throughput sequencing technologies (HTS)
+##  High-throughput sequencing technologies (HTS): historical overview and applications
 
 <br>
 
@@ -68,6 +69,10 @@ Il linguaggio di programmazione R
 
 ___
 
+## Typical data analysis workflow: data preprocessing → quality control → analysis → visualization → interpretation
+
+___
+
 ## Svolgimento tutorial in R: "Introduzione alla Console R"
 <br>
 
@@ -79,7 +84,7 @@ ___
 
 
 
-### Riferimenti utili
+### References and resources
 
 - <span style="color:blue;"> RNA-Seq Data Analysis in Galaxy: [Batut B, van den Beek M, Doyle MA, Soranzo N., Methods Mol Biol. 2021;2284:367-392. doi: 10.1007/978-1-0716-1307-8_20. PMID: 33835453.](https://pubmed.ncbi.nlm.nih.gov/33835453/)</span>
 - <span style="color:blue;"> Galaxy Project video documentation and training resources: [official YouTube channel for the Galaxy Project](https://www.youtube.com/@GalaxyProject)</span>
