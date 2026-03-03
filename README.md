@@ -1,1 +1,1 @@
-Materiale dell'omonimo modulo del corso di Biologia Computazionale e Dinamica Molecolare - LM in Biotecnologie Mediche dell'Università Sapienza di Roma 
+Materiale dell'omonimo modulo del corso di Biologia Computazionale e Dinamica Molecolare - LM in Biotecnologie Mediche dell'Università Sapienza di Roma, a.a. 2025-2026
