@@ -40,7 +40,7 @@ By the end of this activity, you should be able to:
 
 ### 👉 “You are here”
 <br>
-![lancio ANSA del 19 ottobre 2025]<img src="images/modulo1/ANSA_19.10.2025.png" width="70%">
+![lancio ANSA del 19 ottobre 2025]<img src="images/modulo1/ANSA_19.10.2025.png" width="60%" style="border: 2px solid black; padding: 5px;">
 <br>
 ___
 
