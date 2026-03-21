@@ -40,7 +40,7 @@ By the end of this activity, you should be able to:
 
 ### 👉 “You are here”
 <br>
-![Pagina wiki R](images/modulo1/ANSA_19.10.2025.png)
+![lancio ANSA del 19 ottobre 2025]<img src="images/modulo1/ANSA_19.10.2025.png" width="70%">
 <br>
 ___
 
@@ -63,7 +63,6 @@ ___
 ### 👉 The omics revolution: a flood of sequencing data
 <br>
 ![Pagina wiki R](images/modulo1/UnMilioneDiVolteMenoCaro.png)
-<img src="images/modulo1/ANSA_19.10.2025.png" width="50%">
 <br>
 
 
