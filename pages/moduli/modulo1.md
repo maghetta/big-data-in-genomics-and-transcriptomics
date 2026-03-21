@@ -49,7 +49,10 @@ ___
 ### 👉 The turning point: where everything changed
 <br>
 **The Human Genome Project (HPG): 1990-2003**
+![Pagina wiki R](images/modulo1/June26.2000.Monday.png)
 ![Pagina wiki R](images/modulo1/hpg_infographic.png)
+![Pagina wiki R](images/modulo1/hpg_parimerito.png)
+[The White House announcement of the first draft of the human genome](https://clintonwhitehouse4.archives.gov/WH/Work/062600.html)
 <br>
 
 
@@ -66,7 +69,7 @@ ___
 ___
 
 
-### 👉 The omics revolution: a flood of sequencing data
+### 👉 NGS technologies driving the flood of sequencing data
 <br>
 ![Pagina wiki R](images/modulo1/UnMilioneDiVolteMenoCaro.png)
 <br>
