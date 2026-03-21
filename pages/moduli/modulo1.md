@@ -39,14 +39,19 @@ By the end of this activity, you should be able to:
 <br>
 
 ### 👉 “You are here”
+<br>
 ![Pagina wiki R](images/modulo1/ANSA_19.10.2025.png)
-
+<br>
 ___
 
-### 👉 The turning point: where everything changed
 
+
+### 👉 The turning point: where everything changed
+<br>
 **The Human Genome Project (HPG): 1990-2003**
 ![Pagina wiki R](images/modulo1/hpg_infographic.png)
+<br>
+
 
 ___
 
