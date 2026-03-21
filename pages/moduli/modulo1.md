@@ -53,6 +53,7 @@ ___
 ![Pagina wiki R](images/modulo1/hpg_infographic.png)
 ![Pagina wiki R](images/modulo1/hpg_parimerito.png)
 [The White House announcement of the first draft of the human genome](https://clintonwhitehouse4.archives.gov/WH/Work/062600.html)
+[A narrative history of the HGP (video in italiano intitolato "Storia di una rivoluzione: sequenza del genoma svelata"](https://outreach.cnr.it/risorsa/112/approfondimenti-su-biotecnologie-e-genoma-umano)
 <br>
 
 
