@@ -74,7 +74,7 @@ ___
 <br>
 ![Pagina wiki R](images/modulo1/cost_X_humanGenome_and_technologies.png)
 <br>
-[Here a table listing different generations of sequencing technologies](https://www.mdpi.com/2079-7737/12/7/997)<br>
+[At the following link, table 1 lists the different generations of sequencing technologies, along with their key characteristics.](https://www.mdpi.com/2079-7737/12/7/997)<br>
 
 
 ___
