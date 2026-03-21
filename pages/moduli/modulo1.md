@@ -58,7 +58,7 @@ Imparare a programmare è un'ottima scelta per tante buone ragioni, ad esempio: 
 Il linguaggio di programmazione R
 <hr>
 
-![Pagina wiki R](images/modulo1/R_page.png)
+![Pagina wiki R](images/modulo1/ANSA_19.10.2025.png)
 
 
 - R è un linguaggio di programmazione potente e gratuito, particolarmente efficiente per l'analisi statistica e la visualizzazione grafica dei dati
