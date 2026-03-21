@@ -55,6 +55,19 @@ ___
 
 ___
 
+
+### 👉 The omics revolution: a deluge of sequencing data
+<br>
+![Pagina wiki R](images/modulo1/UnMilioneDiVolteMenoCaro.png)
+<br>
+
+
+___
+
+
+
+
+
 - R è un software multipiattaforma, disponibile per sistemi UNIX e UNIX-based (Linux), Windows e Mac OS X
 
 ![Pagina CRAN](images/modulo1/CRAN.png)
