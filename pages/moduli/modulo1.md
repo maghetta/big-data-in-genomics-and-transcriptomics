@@ -63,6 +63,7 @@ ___
 ### 👉 The omics revolution: a flood of sequencing data
 <br>
 ![Pagina wiki R](images/modulo1/UnMilioneDiVolteMenoCaro.png)
+<img src="images/modulo1/ANSA_19.10.2025.png" width="50%">
 <br>
 
 
