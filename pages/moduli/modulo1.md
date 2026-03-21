@@ -52,8 +52,16 @@ ___
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/June26.2000.Monday.png" width="600">
 </div>
-![Pagina wiki R](images/modulo1/hpg_infographic.png)<br>
-![Pagina wiki R](images/modulo1/hpg_parimerito.png)<br>
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/hpg_infographic.png" width="600">
+</div>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/hpg_parimerito.png" width="600">
+</div>
+
 - [The White House announcement of the first draft of the human genome](https://clintonwhitehouse4.archives.gov/WH/Work/062600.html)<br>
 - [A narrative history of the HGP (video in italiano intitolato "Storia di una rivoluzione: sequenza del genoma svelata"](https://outreach.cnr.it/risorsa/112/approfondimenti-su-biotecnologie-e-genoma-umano)
 <br>
