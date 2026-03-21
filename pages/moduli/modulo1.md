@@ -49,7 +49,7 @@ ___
 ### 👉 The turning point: where everything changed
 <br>
 **The Human Genome Project (HPG): 1990-2003**<br>
-![Pagina wiki R](images/modulo1/June26.2000.Monday.png)<br>
+[[![Pagina wiki R](images/modulo1/June26.2000.Monday.png)|thumb|center|200px|Testo della didascalia del Modulo 1]]<br>
 ![Pagina wiki R](images/modulo1/hpg_infographic.png)<br>
 ![Pagina wiki R](images/modulo1/hpg_parimerito.png)<br>
 - [The White House announcement of the first draft of the human genome](https://clintonwhitehouse4.archives.gov/WH/Work/062600.html)<br>
