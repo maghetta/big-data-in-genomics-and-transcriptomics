@@ -40,7 +40,7 @@ By the end of this activity, you should be able to:
 
 ### 👉 “You are here”
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/ANSA_19.10.2025.png" width="500">
+  <img src="images/modulo1/ANSA_19.10.2025.png" width="600">
 </div>
 ___
 
@@ -49,7 +49,9 @@ ___
 ### 👉 The turning point: where everything changed
 <br>
 **The Human Genome Project (HPG): 1990-2003**<br>
-![Pagina wiki R](images/modulo1/June26.2000.Monday.png)<br>
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/June26.2000.Monday.png" width="600">
+</div>
 ![Pagina wiki R](images/modulo1/hpg_infographic.png)<br>
 ![Pagina wiki R](images/modulo1/hpg_parimerito.png)<br>
 - [The White House announcement of the first draft of the human genome](https://clintonwhitehouse4.archives.gov/WH/Work/062600.html)<br>
