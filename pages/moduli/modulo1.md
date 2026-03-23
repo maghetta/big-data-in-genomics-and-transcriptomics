@@ -73,6 +73,12 @@ ___
 >> c. ~100% <br>
 
 
+
+
+> ❓ **Challenge question**: *How many genes are currently annotated in the human genome? How many transcripts?* <br>
+>
+> **Hint**: To answer these questions, visit the **GENCODE** website (just *Google* it), go to the **Human** section, and check the **Statistics** page.
+
 ___
 
 
@@ -90,7 +96,7 @@ ___
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/cost_X_humanGenome_and_technologies.png" width="800"> <br>
-  <em>Image credits.(Left)<a href="https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost">NIH-NHGRI - The Cost of Sequencing a Human Genome</a>; (right)<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4494749/">Mol Cell. 2015 May 21</a></em>
+  <em>Image credits.(Left)<a href="https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost"> NIH-NHGRI - The Cost of Sequencing a Human Genome</a>; (right) <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4494749/">Mol Cell. 2015 May 21</a></em>
 </div>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
@@ -107,9 +113,7 @@ ___
 
 👉 **Take-Home Message (so far):** <br>
 In the aftermath of the Human Genome Project, a major push toward the development of high-throughput sequencing technologies - driven largely by U.S. government funding initiatives such as the $1,000 Genome Project - led to a dramatic reduction in sequencing costs and an exponential growth in *omics* data available to the scientific community.
-
-
-
+Sequencing the human genome led to a reassessment of the number of protein-coding genes and, for the first time, revealed the existence of tens of thousands of non-protein-coding genes.
 
 ___
 
