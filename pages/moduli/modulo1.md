@@ -117,8 +117,9 @@ ___
 ___
 
 👉 **Take-Home Message (so far):** <br>
-In the aftermath of the Human Genome Project, a major push toward the development of high-throughput sequencing technologies - driven largely by U.S. government funding initiatives such as the $1,000 Genome Project - led to a dramatic reduction in sequencing costs and an exponential growth in *omics* data available to the scientific community.
-Sequencing the human genome led to a reassessment of the number of protein-coding genes and, for the first time, revealed the existence of tens of thousands of non-protein-coding genes.
+- In the aftermath of the Human Genome Project, a major push toward the development of high-throughput sequencing technologies - driven largely by U.S. government funding initiatives such as the $1,000 Genome Project - led to a dramatic reduction in sequencing costs and an exponential growth in *omics* data available to the scientific community.
+- Sequencing the human genome led to a reassessment of the number of protein-coding genes and, for the first time, revealed the existence of tens of thousands of non-protein-coding genes.
+- The sequencing data produced served as the foundation for databases to collect and organize this information. In the universe of biomedical databases, two primary portals stand out: the <a href="https://www.ncbi.nlm.nih.gov/">NIH-NCBI (USA)</a> and the <a href="https://www.ebi.ac.uk/">EMBL-EBI (EU)</a>, each hosting multiple databases dedicated to primary genome sequences and covering all types of annotations, such as genes, proteins, regulatory sequences, clinical variants, and disease associations, and experimental data contributed from individual researchers and large consortia. These portals also provide accompanying resources, including analytical tools and extensive documentation (more on this in the next lessons).
 
 ___
 
