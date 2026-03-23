@@ -89,7 +89,7 @@ ___
 ### 👉 NGS technologies driving the flood of sequencing data
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/Cost_and_Technologies.png" width="600">
+  <img src="images/modulo1/cost_X_humanGenome_and_technologies.png" width="600">
 </div>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
