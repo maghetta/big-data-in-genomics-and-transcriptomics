@@ -112,12 +112,11 @@ ___
 
 <br>
 
-[Check Hayden, E. Technology: The $1,000 genome. Nature 507, 294–295 (2014). https://doi.org/10.1038/507294a](https://www.nature.com/articles/507294a#citeas)
-
-[At the following link, table 1 lists the different generations of sequencing technologies, along with their key characteristics.](https://www.mdpi.com/2079-7737/12/7/997)<br>
-
+<a href="https://www.nature.com/articles/507294a#citeas">Check Hayden, E. Technology: The $1,000 genome. Nature 507, 294–295 (2014). https://doi.org/10.1038/507294a</a> <br>
+<a href="https://www.mdpi.com/2079-7737/12/7/997">At the following link, table 1 lists the different generations of sequencing technologies, along with their key characteristics.</a> <br>
 
 ___
+<br>
 
 👉 **Take-Home Message (so far):** <br>
 <ul>
