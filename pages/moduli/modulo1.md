@@ -75,10 +75,15 @@ ___
 
 
 
-> ❓ **Challenge question**: *How many genes are currently annotated in the human genome? How many transcripts?* <br>
+> ❓ **Challenge question**: *How many genes are currently annotated in the human genome? How many transcripts? Is the total number of transcripts less than, greater than, or equal to the number of genes? Why?* <br>
 >
 > **Hint**: To answer these questions, visit the **GENCODE** website (just *Google* it), go to the **Human** section, and check the **Statistics** page.
+>
+> Further points for reflection:
 
+> The importance of noting and recording the version of any resource queried (*Which version of the GENCODE database do the statistics refer to?*).
+> The sequence data in the major global repositories (GenBank at NCBI, ENA – European Nucleotide Archive, DDBJ – DNA Data Bank of Japan) are daily synchronized. (*What is the current version of the human genome assembly listed in the <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/">NCBI Genome database</a>?* *Does it matches the genome assembly listed for human on the <a href="https://www.ensembl.org/index.html">EMBL-EBI Ensembl database?</a>*)
+> Gene annotations curated by each major repository (e.g., NCBI, EMBL-EBI) may differ due to differences in bioinformatic prediction pipelines and the stringency applied to annotations supported by experimental evidence (e.g., <a href="https://www.ncbi.nlm.nih.gov/refseq/">RefSeq</a> vs. <a href="https://www.ncbi.nlm.nih.gov/genbank/">GenBank</a>; <a href="https://vega.archive.ensembl.org/index.html">Vega</a> vs. Ensembl).
 ___
 
 
