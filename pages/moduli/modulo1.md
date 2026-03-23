@@ -106,8 +106,9 @@ ___
 </div>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/NGS_technologies.png" width="600">
+  <img src="images/modulo1/454_illumina.png" width="600">
 </div>
+
 <br>
 
 [Check Hayden, E. Technology: The $1,000 genome. Nature 507, 294–295 (2014). https://doi.org/10.1038/507294a](https://www.nature.com/articles/507294a#citeas)
@@ -131,12 +132,6 @@ ___
 ___
 
 ## Svolgimento tutorial in R: "Introduzione alla Console R"
-<br>
-
-## Svolgimento tutorial in R: "Vettori in R"
-<br>
-
-## Svolgimento tutorial in R: "Fattori in R"
 <br>
 
 
