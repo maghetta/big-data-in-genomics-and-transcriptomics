@@ -72,9 +72,9 @@ ___
 
 ### 👉 The omics revolution: a flood of sequencing data
 <br>
-![Pagina wiki R](images/modulo1/UnMilioneDiVolteMenoCaro.png)
-<br>
-
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/UnMilioneDiVolteMenoCaro.png" width="600">
+</div>
 
 
 ___
@@ -82,12 +82,24 @@ ___
 
 ### 👉 NGS technologies driving the flood of sequencing data
 <br>
-![Pagina wiki R](images/modulo1/cost_X_humanGenome_and_technologies.png)
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/Cost_and_Technologies.png" width="600">
+</div>
 <br>
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/NGS_technologies.png" width="600">
+</div>
+<br>
+
+[Check Hayden, E. Technology: The $1,000 genome. Nature 507, 294–295 (2014). https://doi.org/10.1038/507294a](https://www.nature.com/articles/507294a#citeas)
+
 [At the following link, table 1 lists the different generations of sequencing technologies, along with their key characteristics.](https://www.mdpi.com/2079-7737/12/7/997)<br>
 
 
 ___
+
+👉 Take-Home Message (so far):
+In the aftermath of the Human Genome Project, a major push toward the development of high-throughput sequencing technologies - driven largely by U.S. government funding initiatives such as the $1,000 Genome Project - led to a dramatic reduction in sequencing costs and an exponential growth in omics data available to the scientific community.
 
 
 
