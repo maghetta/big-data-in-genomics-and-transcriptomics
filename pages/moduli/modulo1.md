@@ -89,8 +89,8 @@ ___
 ### 👉 NGS technologies driving the flood of sequencing data
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/cost_X_humanGenome_and_technologies.png" width="800">
-  <em>Image credits.(Left) NIH-NHGRI - <a href="https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost">The Cost of Sequencing a Human Genome</a>; (right) Descrizione dell’immagine</em>
+  <img src="images/modulo1/cost_X_humanGenome_and_technologies.png" width="800"> <br>
+  <em>Image credits.(Left)<a href="https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost">NIH-NHGRI - The Cost of Sequencing a Human Genome</a>; (right)<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4494749/">Mol Cell. 2015 May 21</a></em>
 </div>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
