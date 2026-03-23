@@ -9,8 +9,8 @@ title:
 ## Topics
 
 - High-Throughput Sequencing (HTS) technologies
+- Sequencing generations
 - The sequencing-by-synthesis approach
-- Common *omics* data formats
 - Typical data analysis workflow
 
 <br>
@@ -135,6 +135,7 @@ ___
 <br>
 
 
+___
 
 ### References and resources
 
