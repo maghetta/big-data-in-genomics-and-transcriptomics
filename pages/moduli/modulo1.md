@@ -9,7 +9,7 @@ title:
 ## Topics
 
 - High-Throughput Sequencing (HTS) technologies
-- Sequencing generations
+- generations of sequencing technologies
 - The sequencing-by-synthesis approach
 - Typical data analysis workflow
 
@@ -34,7 +34,7 @@ By the end of this activity, you should be able to:
 
 <br>
 
-## High-throughput sequencing technologies (HTS): a historical overview, basic principles, sequencing generations, and common applications
+## High-Throughput Sequencing (HTS) technologies a historical overview
 
 <br>
 
@@ -126,6 +126,20 @@ ___
 </ul>
 
 ___
+
+## Generations of sequencing technologies
+
+
+___
+
+
+
+## The sequencing-by-synthesis approach
+
+
+___
+
+
 
 ## Typical data analysis workflow: data preprocessing → quality control → analysis → visualization → interpretation
 
