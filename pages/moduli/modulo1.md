@@ -90,6 +90,7 @@ ___
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/cost_X_humanGenome_and_technologies.png" width="600">
+  <em>Image credits.(Left) NIH-NHGRI - [The Cost of Sequencing a Human Genome](https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost); (right) Descrizione dell’immagine</em>
 </div>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
@@ -104,7 +105,7 @@ ___
 
 ___
 
-👉 Take-Home Message (so far):
+👉 **Take-Home Message (so far):** <br>
 In the aftermath of the Human Genome Project, a major push toward the development of high-throughput sequencing technologies - driven largely by U.S. government funding initiatives such as the $1,000 Genome Project - led to a dramatic reduction in sequencing costs and an exponential growth in *omics* data available to the scientific community.
 
 
