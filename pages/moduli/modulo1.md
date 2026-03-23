@@ -34,7 +34,7 @@ By the end of this activity, you should be able to:
 
 <br>
 
-##  High-throughput sequencing technologies (HTS): historical overview and applications
+## High-throughput sequencing technologies (HTS): a historical overview, basic principles, sequencing generations, and common applications
 
 <br>
 
@@ -43,7 +43,6 @@ By the end of this activity, you should be able to:
   <img src="images/modulo1/ANSA_19.10.2025.png" width="600">
 </div>
 ___
-
 
 
 ### 👉 The turning point: where everything changed
