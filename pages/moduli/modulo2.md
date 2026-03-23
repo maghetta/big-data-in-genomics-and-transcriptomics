@@ -9,7 +9,7 @@ title:
 ## Argomenti
 
 - Formati di dati per l’analisi genomica e trascrittomica: sequenze, intervalli genomici e annotazioni geniche
-
+- Common *omics* data formats
 <hr>
 
 ## Obiettivi conoscitivi
