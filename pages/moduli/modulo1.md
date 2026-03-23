@@ -80,10 +80,11 @@ ___
 > **Hint**: To answer these questions, visit the **GENCODE** website (just *Google* it), go to the **Human** section, and check the **Statistics** page.
 
 
-> **Further points for reflection:** <br>
-> The importance of noting and recording the version of any resource queried (*Which version of the GENCODE database do the statistics refer to?*). <br>
-> The sequence data in the major global repositories (GenBank at NCBI, ENA – European Nucleotide Archive, DDBJ – DNA Data Bank of Japan) are daily synchronized. (*What is the current version of the human genome assembly listed in the <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/">NCBI Genome database</a>?*; *Does it matches the genome assembly listed for human on the <a href="https://www.ensembl.org/index.html">EMBL-EBI Ensembl database?</a>*)  <br>
-> Gene annotations curated by each major repository (e.g., NCBI, EMBL-EBI) may differ due to differences in bioinformatic prediction pipelines and the stringency applied to annotations supported by experimental evidence (e.g., <a href="https://www.ncbi.nlm.nih.gov/refseq/">RefSeq</a> vs. <a href="https://www.ncbi.nlm.nih.gov/genbank/">GenBank</a>; <a href="https://vega.archive.ensembl.org/index.html">Vega</a> vs. <a href="https://www.ensembl.org/index.html">Ensembl</a>). (*Do the <a href="https://www.ensembl.org/Homo_sapiens/Info/Annotation">EMBL‑EBI Vega database</a> and the <a href="https://www.ncbi.nlm.nih.gov/refseq/annotation_euk/Homo_sapiens/GCF_009914755.1‑RS_2025_08/">NCBI RefSeq</a> list the same number of annotated human genes?*; *Do these counts match the GENCODE annotated genes?*)
+**Further points for reflection:** <br>
+<ul>
+  <li> The importance of noting and recording the version of any resource queried (*Which version of the GENCODE database do the statistics refer to?*). </li>
+  <li> The sequence data in the major global repositories (GenBank at NCBI, ENA – European Nucleotide Archive, DDBJ – DNA Data Bank of Japan) are daily synchronized. (*What is the current version of the human genome assembly listed in the <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/">NCBI Genome database</a>?*; *Does it matches the genome assembly listed for human on the <a href="https://www.ensembl.org/index.html">EMBL-EBI Ensembl database?</a>*)</li>
+  <li> Gene annotations curated by each major repository (e.g., NCBI, EMBL-EBI) may differ due to differences in bioinformatic prediction pipelines and the stringency applied to annotations supported by experimental evidence (e.g., <a href="https://www.ncbi.nlm.nih.gov/refseq/">RefSeq</a> vs. <a href="https://www.ncbi.nlm.nih.gov/genbank/">GenBank</a>; <a href="https://vega.archive.ensembl.org/index.html">Vega</a> vs. <a href="https://www.ensembl.org/index.html">Ensembl</a>). (*Do the <a href="https://www.ensembl.org/Homo_sapiens/Info/Annotation">EMBL‑EBI Vega database</a> and the <a href="https://www.ncbi.nlm.nih.gov/refseq/annotation_euk/Homo_sapiens/GCF_009914755.1‑RS_2025_08/">NCBI RefSeq</a> list the same number of annotated human genes?*; *Do these counts match the GENCODE annotated genes?*)</li>
 ___
 
 
