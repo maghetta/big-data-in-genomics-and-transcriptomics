@@ -66,11 +66,11 @@ ___
 <br>
 
 
-❓ **A question for you**: What fraction of the human genome was considered “junk DNA” until about 10 years ago? <br>
+> ❓ **A question for you**: *What fraction of the human genome was considered “junk DNA” until about 10 years ago?* <br>
 
-a. ~10%  <br>
-b. ~50% <br>
-c. ~100% <br>
+>> a. ~10%  <br>
+>> b. ~50% <br>
+> c. ~100% <br>
 
 
 ___
