@@ -67,6 +67,13 @@ ___
 <br>
 
 
+❓ **A question for you**: What fraction of the human genome was considered “junk DNA” until about 10 years ago? <br>
+
+a. ~10%  <br>
+b. ~50% <br>
+c. ~100% <br>
+
+
 ___
 
 
@@ -99,20 +106,10 @@ ___
 ___
 
 👉 Take-Home Message (so far):
-In the aftermath of the Human Genome Project, a major push toward the development of high-throughput sequencing technologies - driven largely by U.S. government funding initiatives such as the $1,000 Genome Project - led to a dramatic reduction in sequencing costs and an exponential growth in omics data available to the scientific community.
+In the aftermath of the Human Genome Project, a major push toward the development of high-throughput sequencing technologies - driven largely by U.S. government funding initiatives such as the $1,000 Genome Project - led to a dramatic reduction in sequencing costs and an exponential growth in *omics* data available to the scientific community.
 
 
 
-
-
-
-
-
-- R è un software multipiattaforma, disponibile per sistemi UNIX e UNIX-based (Linux), Windows e Mac OS X
-
-![Pagina CRAN](images/modulo1/CRAN.png)
-
-- R ha una comunità di utilizzatori e sviluppatori attiva e vastissima, che assicura **migliaia di pacchetti disponibili e aggiornati**, grande supporto (es: forum online) e facile accesso a **documentazione**
 
 ___
 
