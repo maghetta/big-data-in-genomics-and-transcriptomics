@@ -142,24 +142,25 @@ Walter Gilbert and Frederick Sanger shared the 1980 Nobel Prize in Chemistry for
 
 **Sanger sequencing:** <br><br>
 How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to generate a complementary copy to a single stranded DNA template.
--
-1️⃣ In each reaction a single primer, complementary to the template, initiates a DNA synthesis reaction from its 3' end.
--
-2️⃣ A, G, T and C di-deoxynucleotides are added in a template-dependent manner one after the other. These di-deoxynucleotides are modified so that they terminate polymerization when incorporated and also fluoresce to allow detection.
--
-3️⃣ After each reaction,  many copies of different-length DNA fragments are generated that are terminated at all of the nucleotide positions of the template molecule by one of the di-deoxynucleotides.
--
-4️⃣The reaction mixtures are loaded on the sequencing machine, either manually onto slab gels or automatically with capillaries, and are electrophoresed to separate the DNA molecules by size.
--
-5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel.
--
+
+1️⃣ In each reaction a single primer, complementary to the template, initiates a DNA synthesis reaction from its 3' end. <br>
+
+2️⃣ A, G, T and C di-deoxynucleotides are added in a template-dependent manner one after the other. These di-deoxynucleotides are modified so that they terminate polymerization when incorporated and also fluoresce to allow detection. <br>
+
+3️⃣ After each reaction,  many copies of different-length DNA fragments are generated that are terminated at all of the nucleotide positions of the template molecule by one of the di-deoxynucleotides. <br>
+
+4️⃣The reaction mixtures are loaded on the sequencing machine, either manually onto slab gels or automatically with capillaries, and are electrophoresed to separate the DNA molecules by size. <br>
+
+5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel. <br>
+
 
 > **Fun fact:**: With Sanger sequencing, a single reaction could read only **about 400 bases per week**, which made sequencing even a small genome like baker’s yeast a months‑long task!<br><br><br>
 > ❓ **A question for you**: *How big is the baker's yeast (Saccharomyces cerevisiae) genome?* <br>
 Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:
-1. Open a browser and go to the NIH-NCBI data portal: <a href="https://www.ncbi.nlm.nih.gov/">https://www.ncbi.nlm.nih.gov</a>
-2. Select the Genome database from the drop-down menu on the left side of the search box
-3. Enter a relevant keyword to access the baker's yeast (Saccharomyces cerevisiae) genome
+1. Open a browser and go to the NIH-NCBI data portal: <a href="https://www.ncbi.nlm.nih.gov/">https://www.ncbi.nlm.nih.gov</a> <br>
+2. Select the Genome database from the drop-down menu on the left side of the search box <br>
+3. Enter a relevant keyword to access the baker's yeast (Saccharomyces cerevisiae) genome <br>
+4. Hit the search button  <br>
 
 
 
