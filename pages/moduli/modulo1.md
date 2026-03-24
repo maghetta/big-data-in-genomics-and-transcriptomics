@@ -151,10 +151,11 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 
 4️⃣The reaction mixtures are loaded on the sequencing machine, either manually onto slab gels or automatically with capillaries, and are electrophoresed to separate the DNA molecules by size. <br>
 
-5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel. <br>
+5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel. <br><br><br>
 
 
-> **Fun fact:**: With Sanger sequencing, a single reaction could read only **about 400 bases per week**, which made sequencing even a small genome like baker’s yeast a months‑long task!<br><br><br>
+**Fun fact:**: With Sanger sequencing, a single reaction could read only **about 400 bases per week**, which made sequencing even a small genome like baker’s yeast a months‑long task!<br><br><br>
+
 > ❓ **A question for you**: *How big is the baker's yeast (Saccharomyces cerevisiae) genome?* <br>
 Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:
 1. Open a browser and go to the NIH-NCBI data portal: <a href="https://www.ncbi.nlm.nih.gov/">https://www.ncbi.nlm.nih.gov</a> <br>
@@ -179,6 +180,20 @@ Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/454_illumina.png" width="600">
 </div><br><br><br>
+
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/clonal_amplification.png" width="650"> <br>
+  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. Next-generation DNA sequencing parallelized amplification. (a): DNA molecules being clonally amplified in an emulsion PCR (emPCR). Adapter ligation and PCR produces DNA libraries with appropriate 5′ and 3′ ends, which can then be made single stranded and immobilized onto individual suitably oligonucleotide-tagged microbeads. Bead-DNA conjugates can then be emulsified using aqueous amplification reagents in oil, ideally producing emulsion droplets containing only one bead  This is the conceptual basis underlying sequencing in the 454 sequencing protocol. (b): Bridge amplification to produce clusters of clonal DNA populations in a planar solid-phase PCR reaction, as occurs in Solexa/Illumina sequencing. </em>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/sanger_seq.png" width="650"> <br>
+  <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
+</div><br><br><br>
+
 
 
 **key features:** massive parallel sequencing; short reads (50-200 bp); hundreds of millions–billions of reads per run <br><br><br>
