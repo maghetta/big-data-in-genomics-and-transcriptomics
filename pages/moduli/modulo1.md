@@ -87,8 +87,9 @@ By the end of this activity, you should be able to:
   <li> Gene annotations curated by each major repository (e.g., NCBI, EMBL-EBI) may differ due to differences in bioinformatic prediction pipelines and the stringency applied to annotations supported by experimental evidence (e.g., <a href="https://www.ncbi.nlm.nih.gov/refseq/">RefSeq</a> vs. <a href="https://www.ncbi.nlm.nih.gov/genbank/">GenBank</a>; <a href="https://vega.archive.ensembl.org/index.html">Vega</a> vs. <a href="https://www.ensembl.org/index.html">Ensembl</a>). (<em>Do the <a href="https://www.ensembl.org/Homo_sapiens/Info/Annotation">EMBL‑EBI Vega database</a> and the <a href="https://www.ncbi.nlm.nih.gov/refseq/annotation_euk/Homo_sapiens/GCF_009914755.1‑RS_2025_08/">NCBI RefSeq</a> list the same number of annotated human genes?</em>; <em>Do these counts match the GENCODE annotated genes?</em>)</li>
 <br><br><br>
 
-
+```
 ### 👉 The omics revolution: a flood of sequencing data
+```
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/UnMilioneDiVolteMenoCaro.png" width="600">
