@@ -161,7 +161,7 @@ Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:<b
 1. Open a browser and go to the NIH-NCBI data portal: <a href="https://www.ncbi.nlm.nih.gov/">https://www.ncbi.nlm.nih.gov</a> <br>
 2. Select the Genome database from the drop-down menu on the left side of the search box <br>
 3. Enter a relevant keyword to access the baker's yeast (Saccharomyces cerevisiae) genome <br>
-4. Hit the search button  <br><br><br>
+4. Hit the search button.  <br><br><br>
 
 
 
@@ -171,7 +171,7 @@ Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:<b
  <li>nothing</li>
  <li>migrate towards the negative pole</li>
  <li>migrate towards the positive pole</li>
-</ol>
+</ol><br><br><br>
 
 
 👉 **The second (*next*) generation:**
@@ -185,7 +185,7 @@ Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:<b
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/clonal_amplification.png" width="650"> <br>
-  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. Next-generation DNA sequencing parallelized amplification. (a): DNA molecules being clonally amplified in an emulsion PCR (emPCR). Adapter ligation and PCR produces DNA libraries with appropriate 5′ and 3′ ends, which can then be made single stranded and immobilized onto individual suitably oligonucleotide-tagged microbeads. Bead-DNA conjugates can then be emulsified using aqueous amplification reagents in oil, ideally producing emulsion droplets containing only one bead  This is the conceptual basis underlying sequencing in the 454 sequencing protocol. (b): Bridge amplification to produce clusters of clonal DNA populations in a planar solid-phase PCR reaction, as occurs in Solexa/Illumina sequencing. </em>
+  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. Next-generation DNA sequencing parallelized amplification.(a) 454 sequencing: clonal amplification on beads (emulsion PCR); (b) Illumina/Solexa sequencing: bridge amplification on a flow cell. </em>
 </div><br><br><br>
 
 
