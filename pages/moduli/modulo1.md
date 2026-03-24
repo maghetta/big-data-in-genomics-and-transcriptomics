@@ -83,10 +83,11 @@ ___
 
 **Further points for reflection:** <br>
 <ul>
-  <li> The importance of noting and recording the version of any resource queried (*Which version of the GENCODE database do the statistics refer to?*). </li>
+  <li> The importance of noting and recording the version of any resource queried (<em>Which version of the GENCODE database do the statistics refer to?</em>). </li>
   <li> The sequence data in the major global repositories (GenBank at NCBI, ENA – European Nucleotide Archive, DDBJ – DNA Data Bank of Japan) are daily synchronized. (<em>What is the current version of the human genome assembly listed in the <a href="https://www.ncbi.nlm.nih.gov/datasets/genome/">NCBI Genome database</a>?</em>; <em>Does it matches the genome assembly listed for human on the <a href="https://www.ensembl.org/index.html">EMBL-EBI Ensembl database?</a></em>)</li>
   <li> Gene annotations curated by each major repository (e.g., NCBI, EMBL-EBI) may differ due to differences in bioinformatic prediction pipelines and the stringency applied to annotations supported by experimental evidence (e.g., <a href="https://www.ncbi.nlm.nih.gov/refseq/">RefSeq</a> vs. <a href="https://www.ncbi.nlm.nih.gov/genbank/">GenBank</a>; <a href="https://vega.archive.ensembl.org/index.html">Vega</a> vs. <a href="https://www.ensembl.org/index.html">Ensembl</a>). (<em>Do the <a href="https://www.ensembl.org/Homo_sapiens/Info/Annotation">EMBL‑EBI Vega database</a> and the <a href="https://www.ncbi.nlm.nih.gov/refseq/annotation_euk/Homo_sapiens/GCF_009914755.1‑RS_2025_08/">NCBI RefSeq</a> list the same number of annotated human genes?</em>; <em>Do these counts match the GENCODE annotated genes?</em>)</li>
-___
+<br>
+___<br><br><br>
 
 
 ### 👉 The omics revolution: a flood of sequencing data
@@ -96,7 +97,7 @@ ___
 </div>
 
 
-___
+___<br><br><br>
 
 
 ### 👉 NGS technologies driving the flood of sequencing data
@@ -115,8 +116,7 @@ ___
 <a href="https://www.nature.com/articles/507294a#citeas">Check Hayden, E. Technology: The $1,000 genome. Nature 507, 294–295 (2014). https://doi.org/10.1038/507294a</a> <br>
 <a href="https://www.mdpi.com/2079-7737/12/7/997">At the following link, table 1 lists the different generations of sequencing technologies, along with their key characteristics.</a> <br>
 
-___
-<br>
+___<br><br><br>
 
 👉 **Take-Home Message (so far):** <br>
 <ul>
@@ -125,12 +125,12 @@ ___
  <li>The sequencing data produced served as the foundation for databases that collect and organize this information. In the world of biomedical databases, two primary portals stand out: the <a href="https://www.ncbi.nlm.nih.gov/">NIH-NCBI (USA)</a> and the <a href="https://www.ebi.ac.uk/">EMBL-EBI (EU)</a>. Each hosts multiple databases dedicated to primary genome sequences and covers all types of annotations, including genes, proteins, regulatory sequences, clinical variants, disease associations, and experimental data contributed by individual researchers and large consortia. These portals also provide supporting resources, such as analytical tools and extensive documentation (more on this in the next lessons).</li>
 </ul>
 
-___
+___<br><br><br>
 
 ## Generations of sequencing technologies
 
 
-___
+___<br><br><br>
 
 
 
