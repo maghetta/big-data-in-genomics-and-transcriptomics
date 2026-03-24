@@ -113,9 +113,9 @@ ___
 <br>
 
 <a href="https://www.nature.com/articles/507294a#citeas">Check Hayden, E. Technology: The $1,000 genome. Nature 507, 294–295 (2014). https://doi.org/10.1038/507294a</a> <br>
-<a href="https://www.mdpi.com/2079-7737/12/7/997">At the following link, table 1 lists the different generations of sequencing technologies, along with their key characteristics.</a> <br>
+<a href="https://www.mdpi.com/2079-7737/12/7/997">At the following link, table 1 lists the different generations of sequencing technologies, along with their key characteristics.</a> <br><br><br>
 
-___<br><br><br>
+
 
 👉 **Take-Home Message (so far):** <br>
 <ul>
@@ -124,31 +124,33 @@ ___<br><br><br>
  <li>The sequencing data produced served as the foundation for databases that collect and organize this information. In the world of biomedical databases, two primary portals stand out: the <a href="https://www.ncbi.nlm.nih.gov/">NIH-NCBI (USA)</a> and the <a href="https://www.ebi.ac.uk/">EMBL-EBI (EU)</a>. Each hosts multiple databases dedicated to primary genome sequences and covers all types of annotations, including genes, proteins, regulatory sequences, clinical variants, disease associations, and experimental data contributed by individual researchers and large consortia. These portals also provide supporting resources, such as analytical tools and extensive documentation (more on this in the next lessons).</li>
 </ul>
 
-<hr style="border: 1px solid gray; width: 50%;">
+<hr style="border: 1px solid gray; width: 50%;"><br><br><br>
+
+
 
 ## Generations of sequencing technologies
 
 
-___<br><br><br>
 
 
+
+<hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
 ## The sequencing-by-synthesis approach
 
 
-___
 
 
+<hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
 ## Typical data analysis workflow: data preprocessing → quality control → analysis → visualization → interpretation
 
-___
 
 ## Svolgimento tutorial in R: "Introduzione alla Console R"
 <br>
 
 
-___
+<hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
 ### References and resources
 
