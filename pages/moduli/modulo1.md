@@ -57,7 +57,7 @@ By the end of this activity, you should be able to:
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/hpg_parimerito.png" width="600">
+  <img src="images/modulo1/hpg_parimerito.png" width="400">
 </div><br><br><br>
 
 - [The White House announcement of the first draft of the human genome](https://clintonwhitehouse4.archives.gov/WH/Work/062600.html)<br>
@@ -132,6 +132,8 @@ By the end of this activity, you should be able to:
 
 👉 **The first generation: Sanger sequencing**
 
+How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to generate a complementary copy to a single stranded DNA template.
+-
 1️⃣ In each reaction a single primer, complementary to the template, initiates a DNA synthesis reaction from its 3' end.
 -
 2️⃣ A, G, T and C di-deoxynucleotides are added in a template-dependent manner one after the other. These di-deoxynucleotides are modified so that they terminate polymerization when incorporated and also fluoresce to allow detection.
@@ -141,8 +143,18 @@ By the end of this activity, you should be able to:
 4️⃣The reaction mixtures are loaded on the sequencing machine, either manually onto slab gels or automatically with capillaries, and are electrophoresed to separate the DNA molecules by size.
 -
 5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel.
+-
 
+<br>
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/sanger_maxgil.png" width="800"> <br>
+  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a></em>
+</div><br><br><br>
 
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/sanger_seq.jpeg" width="800"> <br>
+  <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
+</div>
 
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
