@@ -141,9 +141,11 @@ Walter Gilbert and Frederick Sanger shared the 1980 Nobel Prize in Chemistry for
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/sanger_seq.jpeg" width="800"> <br>
+  <img src="images/modulo1/sanger_seq.png" width="500"> <br>
   <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
 </div><br><br><br>
+
+Sanger sequencing: <br>
 How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to generate a complementary copy to a single stranded DNA template.
 -
 1️⃣ In each reaction a single primer, complementary to the template, initiates a DNA synthesis reaction from its 3' end.
