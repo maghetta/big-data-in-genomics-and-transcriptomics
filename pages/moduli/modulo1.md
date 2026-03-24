@@ -130,8 +130,20 @@ By the end of this activity, you should be able to:
 
 ## Generations of sequencing technologies
 
-👉 **The first generation: Sanger sequencing**
+👉 **The first generation:**
 
+Walter Gilbert and Frederick Sanger shared the 1980 Nobel Prize in Chemistry for developing the first-generation DNA sequencing methods. <br><br>
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/sanger_maxgil.png" width="800"> <br>
+  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. First-generation DNA sequencing technologies. Example DNA to be sequenced (a) is illustrated undergoing either Sanger (b) or Maxam–Gilbert (c) sequencing. (d): Fragments generated from either methodology can then be visualized via electrophoresis on a high-resolution polyacrylamide gel: sequences are then inferred by reading ‘up’ the gel, as the shorter DNA fragments migrate fastest. </em>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/sanger_seq.jpeg" width="800"> <br>
+  <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
+</div><br><br><br>
 How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to generate a complementary copy to a single stranded DNA template.
 -
 1️⃣ In each reaction a single primer, complementary to the template, initiates a DNA synthesis reaction from its 3' end.
@@ -145,16 +157,6 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel.
 -
 
-<br>
-<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/sanger_maxgil.png" width="800"> <br>
-  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a></em>
-</div><br><br><br>
-
-<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/sanger_seq.jpeg" width="800"> <br>
-  <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
-</div>
 
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
