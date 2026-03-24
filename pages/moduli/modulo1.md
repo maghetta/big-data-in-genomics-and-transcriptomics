@@ -145,7 +145,7 @@ Walter Gilbert and Frederick Sanger shared the 1980 Nobel Prize in Chemistry for
   <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
 </div><br><br><br>
 
-Sanger sequencing: <br>
+**Sanger sequencing:** <br><br>
 How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to generate a complementary copy to a single stranded DNA template.
 -
 1️⃣ In each reaction a single primer, complementary to the template, initiates a DNA synthesis reaction from its 3' end.
@@ -171,9 +171,22 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 👉 **The second (*next*) generation:**
 
 
+**key features:** massive parallel sequencing; short reads (50-200 bp) <br><br><br>
+
+
+👉 **The third generation:**
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/third_generation.png" width="650"> <br>
+  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. Third-generation DNA sequencing technologies. (a): Nucleotide detection in a zero-mode waveguide (ZMW), as featured in PacBio sequencers. DNA polymerase molecules are attached to the bottom of each ZMW, and target DNA and fluorescent nucleotides are added. As the diameter is narrower than the excitation light's wavelength, illumination rapidly decays travelling up the ZMW: nucleotides being incorporated during polymerisation at the base of the ZMW provide real-time bursts of fluorescent signal, without undue interference from other labelled dNTPs in solution. (b): Nanopore DNA sequencing as employed in ONT's MinION sequencer. Double stranded DNA gets denatured by a processive enzyme which ratchets one of the strands through a biological nanopore embedded in a synthetic membrane, across which a voltage is applied. As the ssDNA passes through the nanopore the different bases prevent ionic flow in a distinctive manner, allowing the sequence of the molecule to be inferred by monitoring the current at each channel.</em>
+</div><br><br><br>
+
+**key features:** direct sequencing (no amplification); long reads (up to 30.000 bp)  <br><br><br>
+
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
 ## The sequencing-by-synthesis approach
+
 
 
 
