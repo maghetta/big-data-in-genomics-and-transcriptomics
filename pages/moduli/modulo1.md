@@ -159,7 +159,7 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel.
 -
 
-> ❓ **A question for you**: *Should you place a DNA molecule in an electric current, what will it do, and why?* <br>
+> ❓ **A question for you**: *What happens if you place a DNA molecule in an electric field, what will it do, and why?* <br>
 
 <ol type="a">
  <li>nothing</li>
