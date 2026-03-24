@@ -171,10 +171,12 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 👉 **The second (*next*) generation:**
 
 
-**key features:** massive parallel sequencing; short reads (50-200 bp) <br><br><br>
+**key features:** massive parallel sequencing; short reads (50-200 bp); hundreds of millions–billions of reads per run <br><br><br>
 
 
 👉 **The third generation:**
+
+Third-generation sequencing technologies, such as the **Pacific Biosciences (PacBio)** and **Oxford Nanopore Technologies (ONT)**, prioritize read length over read count. Today sequencers can output long reads (typically 10–100 kb) and ultlong reads exceeding 100 kb and extreme cases over 1 Mb. <br><br><br>
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/third_generation.png" width="650"> <br>
@@ -184,6 +186,8 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 **key features:** direct sequencing (no amplification); long reads (up to 30.000 bp)  <br><br><br>
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
+
+
 
 ## The sequencing-by-synthesis approach
 
