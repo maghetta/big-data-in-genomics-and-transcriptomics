@@ -157,24 +157,23 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 **Fun fact:**: With Sanger sequencing, a single reaction could read only **about 400 bases per week**, which made sequencing even a small genome like baker’s yeast a months‑long task!<br><br><br>
 
 > ❓ **A question for you**: *How big is the baker's yeast (Saccharomyces cerevisiae) genome?* <br>
-Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:<br>
+Hint: try to find your answer by querying the NIH-NCBI Genome database. To do so:<br>
 1. Open a browser and go to the NIH-NCBI data portal: <a href="https://www.ncbi.nlm.nih.gov/">https://www.ncbi.nlm.nih.gov</a> <br>
 2. Select the Genome database from the drop-down menu on the left side of the search box <br>
 3. Enter a relevant keyword to access the baker's yeast (Saccharomyces cerevisiae) genome <br>
-4. Hit the search button.  <br><br><br>
+4. Click the search button.  <br><br><br>
 
 
 
 > ❓ **A question for you**: *What happens if you place a DNA molecule in an electric field, what will it do, and why?* <br>
-
 <ol type="a">
  <li>nothing</li>
  <li>migrate towards the negative pole</li>
  <li>migrate towards the positive pole</li>
-</ol><br><br><br>
+</ol><br><br><br><br>
 
 
-👉 **The second (*next*) generation:**
+👉 **The second (*next*) generation:**<br>
 </div>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
