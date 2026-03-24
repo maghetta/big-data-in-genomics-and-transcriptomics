@@ -193,6 +193,11 @@ The combined use of two third-generation sequencing technologies—specifically,
 
 Long-read sequencing has enabled haplotype-resolved cancer genomics, allowing allele-specific analysis of mutations, methylation, and gene expression, as well as the reconstruction of complex structural variants.
 
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/LRS_in_cancer.png" width="700"> <br>
+  <em><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12047254/"> Genome Res. 2025 Apr;35(4):599–620.</a>.</em>
+</div><br><br><br>
+
 
 **key features:** direct sequencing (no amplification); long reads (up to 30.000 bp)  <br><br><br>
 
