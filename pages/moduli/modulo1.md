@@ -141,7 +141,7 @@ Walter Gilbert and Frederick Sanger shared the 1980 Nobel Prize in Chemistry for
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/sanger_seq.png" width="500"> <br>
+  <img src="images/modulo1/sanger_seq.png" width="650"> <br>
   <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
 </div><br><br><br>
 
@@ -159,6 +159,16 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel.
 -
 
+> ❓ **A question for you**: *Should you place a DNA molecule in an electric current, what will it do, and why?* <br>
+
+<ol type="a">
+ <li>nothing</li>
+ <li>migrate towards the negative pole</li>
+ <li>migrate towards the positive pole</li>
+</ol>
+
+
+👉 **The second (*next*) generation:**
 
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
