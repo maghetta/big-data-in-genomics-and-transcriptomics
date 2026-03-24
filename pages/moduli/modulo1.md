@@ -88,7 +88,7 @@ By the end of this activity, you should be able to:
 <br><br><br>
 
 
-<h2>👉 The omics revolution: a flood of sequencing data</h2>
+<h1>👉 The omics revolution: a flood of sequencing data</h1>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/UnMilioneDiVolteMenoCaro.png" width="600">
