@@ -41,8 +41,7 @@ By the end of this activity, you should be able to:
 ### 👉 “You are here”
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/ANSA_19.10.2025.png" width="600">
-</div>
-___
+</div><br><br><br>
 
 
 ### 👉 The turning point: where everything changed
@@ -50,20 +49,20 @@ ___
 **The Human Genome Project (HPG): 1990-2003**<br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/June26.2000.Monday.png" width="600">
-</div>
+</div><br><br>
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/hpg_infographic.png" width="600">
-</div>
+</div><br><br>
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/hpg_parimerito.png" width="600">
-</div>
+</div><br><br><br>
 
 - [The White House announcement of the first draft of the human genome](https://clintonwhitehouse4.archives.gov/WH/Work/062600.html)<br>
 - [A narrative history of the HGP (video in italiano intitolato "Storia di una rivoluzione: sequenza del genoma svelata"](https://outreach.cnr.it/risorsa/112/approfondimenti-su-biotecnologie-e-genoma-umano)
-<br>
+<br><br><br>
 
 
 > ❓ **A question for you**: *What fraction of the human genome was considered “junk DNA” until about 20 years ago?* <br>
@@ -89,7 +88,7 @@ ___
 <br><br><br>
 
 
-### 👉 The omics revolution: a flood of sequencing data
+<h2>👉 The omics revolution: a flood of sequencing data</h2>
 <br>
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/UnMilioneDiVolteMenoCaro.png" width="600">
