@@ -130,13 +130,13 @@ By the end of this activity, you should be able to:
 Walter Gilbert and Frederick Sanger shared the 1980 Nobel Prize in Chemistry for developing the first-generation DNA sequencing methods. <br><br>
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/sanger_maxgil.png" width="800"> <br>
+  <img src="images/modulo1/sanger_maxgil.png" width="800">
   <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. First-generation DNA sequencing technologies. Example DNA to be sequenced (a) is illustrated undergoing either Sanger (b) or Maxam–Gilbert (c) sequencing. (d): Fragments generated from either methodology can then be visualized via electrophoresis on a high-resolution polyacrylamide gel: sequences are then inferred by reading ‘up’ the gel, as the shorter DNA fragments migrate fastest. </em>
 </div><br><br><br>
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/sanger_seq.png" width="650"> <br>
+  <img src="images/modulo1/sanger_seq.png" width="650">
   <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
 </div><br><br><br>
 
@@ -157,11 +157,11 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 **Fun fact:**: With Sanger sequencing, a single reaction could read only **about 400 bases per week**, which made sequencing even a small genome like baker’s yeast a months‑long task!<br><br><br>
 
 > ❓ **A question for you**: *How big is the baker's yeast (Saccharomyces cerevisiae) genome?* <br>
-Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:
+Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:<br>
 1. Open a browser and go to the NIH-NCBI data portal: <a href="https://www.ncbi.nlm.nih.gov/">https://www.ncbi.nlm.nih.gov</a> <br>
 2. Select the Genome database from the drop-down menu on the left side of the search box <br>
 3. Enter a relevant keyword to access the baker's yeast (Saccharomyces cerevisiae) genome <br>
-4. Hit the search button  <br>
+4. Hit the search button  <br><br><br>
 
 
 
@@ -190,11 +190,15 @@ Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/sanger_seq.png" width="650"> <br>
+  <img src="images/modulo1/454.png" width="650"> <br>
   <em>Image credits.<a href="https://www.instagram.com/p/CVi1JH5B-xM/">Applied Biological Materials (abm), Instagram post, Oct. 27, 2021.</a></em>
 </div><br><br><br>
 
 
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/illumina.png" width="800"> <br>
+  <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. First-generation DNA sequencing technologies. Example DNA to be sequenced (a) is illustrated undergoing either Sanger (b) or Maxam–Gilbert (c) sequencing. (d): Fragments generated from either methodology can then be visualized via electrophoresis on a high-resolution polyacrylamide gel: sequences are then inferred by reading ‘up’ the gel, as the shorter DNA fragments migrate fastest. </em>
+</div><br><br><br>
 
 **key features:** massive parallel sequencing; short reads (50-200 bp); hundreds of millions–billions of reads per run <br><br><br>
 
@@ -208,7 +212,7 @@ Third-generation sequencing technologies, such as the **Pacific Biosciences (Pac
   <em>Image credits.<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4727787/"> Genomics. 2016 Jan;107(1):1–8.</a>. Third-generation DNA sequencing technologies. (a): Nucleotide detection in a zero-mode waveguide (ZMW), as featured in PacBio sequencers. DNA polymerase molecules are attached to the bottom of each ZMW, and target DNA and fluorescent nucleotides are added. As the diameter is narrower than the excitation light's wavelength, illumination rapidly decays travelling up the ZMW: nucleotides being incorporated during polymerisation at the base of the ZMW provide real-time bursts of fluorescent signal, without undue interference from other labelled dNTPs in solution. (b): Nanopore DNA sequencing as employed in ONT's MinION sequencer. Double stranded DNA gets denatured by a processive enzyme which ratchets one of the strands through a biological nanopore embedded in a synthetic membrane, across which a voltage is applied. As the ssDNA passes through the nanopore the different bases prevent ionic flow in a distinctive manner, allowing the sequence of the molecule to be inferred by monitoring the current at each channel.</em>
 </div><br><br><br>
 
-**New possibilities enabled by long-read sequencing**
+**New possibilities enabled by long-read sequencing** <br><br><br>
 The combined use of two third-generation sequencing technologies—specifically, the PacBio HiFi DNA sequencing method, which can read about 20,000 bases with nearly perfect accuracy, and the Oxford Nanopore DNA sequencing method, which can read up to 1 million bases at a time with more modest accuracy — made it possible to obtain the first complete human genome sequence in March 2022. Thanks to the long reads generated by these technologies, the final 8% of the human genome, consisting primarily of highly repetitive sequences that could not be resolved during the Human Genome Project and were long considered unreachable, has now been completed. In total, nearly 200 million bases were added to the human genome in this effort.
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
