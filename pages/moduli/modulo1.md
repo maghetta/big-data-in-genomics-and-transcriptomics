@@ -104,11 +104,6 @@ By the end of this activity, you should be able to:
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/cost_X_humanGenome_and_technologies.png" width="800"> <br>
   <em>Image credits.(Left)<a href="https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost"> NIH-NHGRI - The Cost of Sequencing a Human Genome</a>; (right) <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4494749/">Mol Cell. 2015 May 21</a></em>
-</div>
-<br>
-<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/454_illumina.png" width="600">
-</div>
 
 <br>
 
@@ -159,6 +154,15 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 5️⃣The DNA sequence is read through the fluorescent emission of the di-deoxynucleotide as it flows through the gel.
 -
 
+> **Fun fact:**: With Sanger sequencing, a single reaction could read only **about 400 bases per week**, which made sequencing even a small genome like baker’s yeast a months‑long task!<br><br><br>
+> ❓ **A question for you**: *How big is the baker's yeast (Saccharomyces cerevisiae) genome?* <br>
+Hint: try find your answer by querying the NIH-NCBI Genome database. To do so:
+1. Open a browser and go to the NIH-NCBI data portal: <a href="https://www.ncbi.nlm.nih.gov/">https://www.ncbi.nlm.nih.gov</a>
+2. Select the Genome database from the drop-down menu on the left side of the search box
+3. Enter a relevant keyword to access the baker's yeast (Saccharomyces cerevisiae) genome
+
+
+
 > ❓ **A question for you**: *What happens if you place a DNA molecule in an electric field, what will it do, and why?* <br>
 
 <ol type="a">
@@ -169,6 +173,11 @@ How does it work? 🤔It uses a high fidelity DNA-dependent polymerase to genera
 
 
 👉 **The second (*next*) generation:**
+</div>
+<br>
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/454_illumina.png" width="600">
+</div><br><br><br>
 
 
 **key features:** massive parallel sequencing; short reads (50-200 bp); hundreds of millions–billions of reads per run <br><br><br>
