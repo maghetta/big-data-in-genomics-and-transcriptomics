@@ -256,6 +256,15 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/Genomics_Transcriptomics_Proteomics_Metabolomics.png" width="700"> <br>
+  <em>Image credits.<a href="https://doi.org/10.3390/fermentation4040092"> Pinu, F.R. Fermentation 2018, 4, 92.</a></em>
+</div><br><br><br>
+
+
+
 ### References and resources
 
 - <span style="color:blue;"> A couple of reviews on first-, second-, and third-generation sequencing technologies:</span> <br>
