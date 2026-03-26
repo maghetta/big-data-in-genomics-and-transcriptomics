@@ -29,7 +29,7 @@ In genomics and transcriptomics, **standard data formats** are essential for ens
 
 
 > ❓ **Challenge question**: *How many sequences would you expect to find in a FASTA file containing the human genome? Why?*
-
+> ❓ **Challenge question**: *Knowing the size of the human genome and assuming ~1 byte per character, what is the expected size of a FASTA file containing the entire genome?*
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
