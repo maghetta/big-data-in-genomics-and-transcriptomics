@@ -343,17 +343,26 @@ Higher scores indicate greater confidence in the base call. Q30 is generally con
 - over 28: Good quality  <br>
 
 
-
+**From Phred score to accuracy** <br><br>
 Given a Phred score, you can calculate the following:
 
-- **the probability (P) that this base call is incorrect**, that is given by the formula
+- **the probability (P) that a base call is incorrect**, given by:
 
 ```
-\( P = 10^{-Q/10} \)
+P = 10^{-Q/10}
 ```
 
-- **the accuracy**, that is given by the formula
+- **the accuracy** of the base call for a given nucleotide
 
+```
+base call accuracy = 1 - P
+```
+
+**Example**: *A sequencing read has a Phred quality score (Q) of 30 at a given base.* <br>
+- *What is the probability (P) that this base call is incorrect?*
+  Q=30 --> P = 10^(-30/10) = 0.001, i.e., 1 in 1,000 error rate.
+- *What is the corresponding accuracy (i.e., probability that the base call is correct)?*
+  Accuracy = 1 - P = 1 - 0.001 = 0.999, i.e., 99.9% accuracy.
 
 
 
@@ -365,14 +374,9 @@ Note: you do not need to use [Galaxy](https://galaxyproject.github.io/training-m
 > ❓ **A question for you**: *By examining the [full list of ASCII symbols](https://commons.wikimedia.org/wiki/File:ASCII-Table-wide.svg), can you guess why the characters used for quality encoding start at ASCII code 33?*
 
 
-> ❓ **A challenge for you**: From Phred score to accuracy
-
-*A sequencing read has a Phred quality score (Q) of 30 at a given base.* <br>
-
+> ❓ **A challenge for you**: *A sequencing read has a Phred quality score (Q) of 14 at a given base.* <br>
 *What is the probability (P) that this base call is incorrect?*
-
 *What is the corresponding accuracy (i.e., probability that the base call is correct)?*
-
 
 
 
