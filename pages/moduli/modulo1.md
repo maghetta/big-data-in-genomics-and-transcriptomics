@@ -335,8 +335,22 @@ Note: you do not need to use [Galaxy](https://galaxyproject.github.io/training-m
 
 
 
-## Single-end (SE) vs Paired-end (PE) sequencing: Overview
+## Single-end vs Paired-end sequencing: Overview
 
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/sequencing_library.png" width="650">
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/SE.png" width="650">
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/PE.png" width="650">
+</div><br><br><br>
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
