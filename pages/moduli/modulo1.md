@@ -282,6 +282,25 @@ Key steps: <br>
 </div><br><br><br>
 
 
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/applications.jpeg" width="700"> <br>
+  <em>Image credits: <a href="https://doi.org/10.3390/biology12070997">Current Trends and Advancements. Biology 2023, 12, 997.</a></em>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/applications2.jpeg" width="700"> <br>
+  <em>Image credits: <a href="https://doi.org/10.3390/biology2010378">Biology 2013, 2, 378-398.</a></em>
+</div><br><br><br>
+
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/applications3.jpeg" width="700"> <br>
+  <em>Image credits: <a href="https://nakatolab.iqb.u-tokyo.ac.jp/research-e.html?utm_source=chatgpt.com">Nakato lab, Tokyo university</a></em>
+</div><br><br><br>
+
+
 
 
 Typical steps in NGS data analysis:
