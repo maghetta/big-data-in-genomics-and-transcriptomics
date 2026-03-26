@@ -298,6 +298,9 @@ Typical steps in NGS data analysis:
 
 
 
+### Further insights
+
+
 ## Quality of sequencing reads: the Phred score
 <br>
 
@@ -332,12 +335,24 @@ Note: you do not need to use [Galaxy](https://galaxyproject.github.io/training-m
 
 
 
+## Single-end (SE) vs Paired-end (PE) sequencing: Overview
+
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/SE_vs_PE_sequencing.png" width="650">
+</div><br><br><br>
+
+
+
+## Different Types of Omics Data
+
+The term omics refers to large-scale, comprehensive datasets that profile entire classes of biological molecules simultaneously. With the advent of high-throughput genomics (HTG) technologies, data production and analysis shifted from studying one gene or transcript at a time to measuring all genes or transcripts at once. This shift is reflected in the *-omics* suffix, which now spans numerous fields—from genomics and transcriptomics to proteomics, metabolomics, and beyond—enabling a holistic view of biological systems.
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/Genomics_Transcriptomics_Proteomics_Metabolomics.png" width="700"> <br>
   <em>Image credits.<a href="https://doi.org/10.3390/fermentation4040092"> Pinu, F.R. Fermentation 2018, 4, 92.</a></em>
 </div><br><br><br>
-
 
 
 ### References and resources
