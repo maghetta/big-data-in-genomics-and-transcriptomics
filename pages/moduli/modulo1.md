@@ -20,13 +20,12 @@ title:
 
 By the end of this activity, you should be able to:
 <br>
-- Distinguish between genomics and transcriptomics by defining their objects of study and providing examples of their applications
 - Describe the principles of the “sequencing-by-synthesis” process
 - Describe genomic sequencing using Illumina technology
 - Outline the main features that distinguish first-, second- (“Next Generation Sequencing”), and third-generation sequencing technologies
 - Describe the scope of mapping sequencing reads to the reference genome
-- List at least three databases of genome sequences and annotations
-- Explain the minimum information required to define a genomic coordinate
+- Explain why the use of paired-end sequencing for miRNA sequencing represents a poor experimental choice
+- Describe the relation between Phred scores and quality of a read
 - List at least three common applications of high-throughput sequencing in biomedical research
   
 
