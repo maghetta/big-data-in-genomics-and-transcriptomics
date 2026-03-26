@@ -4,9 +4,9 @@ columns:
 - type: image
     image_width: 88px
     width: 2
-       src: 'assets/img/main_logo.svg'
-       alt: Jekyll Bootstrap theme logo
-   - type: links
+    src: 'assets/img/main_logo.svg'
+    alt: Jekyll Bootstrap theme logo
+- type: links
     width: 3
     children: 
       - url_text: Home
