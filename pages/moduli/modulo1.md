@@ -245,8 +245,6 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 > ❓ **A question for you**: *Can Sanger sequencing be classified as sequencing-by-synthesis (SBS)? Why or why not?*
 
 
-
-
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/SBS.jpg" width="700"> <br>
   <em>Image credits: <a href="https://cmb.i-learn.unito.it/mod/wiki/prettyview.php?pageid=98">https://cmb.i-learn.unito.it/</a></em>
@@ -351,6 +349,8 @@ Higher scores indicate greater confidence in the base call. Q30 is generally con
 
 > ❓ **A challenge for you**: Complete the first point (*Inspect a raw sequence file*) in this [Galaxy tutorial on Quality control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html#quality-control)
 Note: you do not need to use [Galaxy](https://galaxyproject.github.io/training-material/topics/introduction/) to perform this step.
+
+> ❓ **A question for you**: *By examining the [full list of ASCII symbols](https://commons.wikimedia.org/wiki/File:ASCII-Table-wide.svg), can you guess why the characters used for quality encoding start at ASCII code 33?*
 
 
 
