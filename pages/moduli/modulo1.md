@@ -240,6 +240,23 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 
 ## The sequencing-by-synthesis approach
 
+**Sequencing-by-synthesis (SBS)** is the primary approach used by next-generation sequencing (NGS) technologies, particularly methods like Illumina Sequencing (Bridge Amplification) or Roche 454 (Emulsion PCR), to identify incorporated nucleotides. These systems involve **immobilizing fragmented DNA**, **generating clonal clusters** to amplify the signal, and **detecting base incorporation** via fluorescence or light. 
+
+> ❓ **A question for you**: *Can Sanger sequencing be classified as sequencing-by-synthesis (SBS)? Why or why not?*
+
+
+Key steps: <br>
+- **Attach to Something (Immobilization)**: DNA fragments are attached to a solid support, such as a flow cell (Illumina) or beads (454/Ion Torrent).
+- **Amplify Signal (Signal Amplification)**: To make the signal detectable, single molecules are amplified into local clusters of identical copies. <br>
+  - Bridge Amplification: Commonly used by Illumina to generate dense clusters on a solid surface.
+  - Emulsion PCR (ePCR): Used by 454 to amplify DNA on bead surfaces.
+
+- **Couple Sequencing (System to Reveal Nucleotide)**:
+  - Illumina/Solexa: A DNA polymerase incorporates fluorescently labeled, chain-terminating nucleotides. Each incorporation event is imaged to identify the nucleotide.
+  - 454/Roche (Pyrosequencing): Employs luciferase to detect light produced when a nucleotide is added to the growing strand (454).
+  - Ion Torrent: Measures the pH change (H+ release) during nucleotide incorporation. 
+
+
 
 🎥 <a href="https://www.youtube.com/watch?v=fCd6B5HRaZ8"> Short video illustrating the Illumina sequencing technology <a>
 
