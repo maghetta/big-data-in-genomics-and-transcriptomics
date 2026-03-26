@@ -46,7 +46,7 @@ This is a microbiome sample from [Jacques et al. 2021](https://doi.org/10.24918/
 - Launch the FastQC application
 - Load the FASTQ file you previously downloaded (select *File* > *Open*. You can then select the files you want to analyse.)
 - Run the quality control analysis
-- Evaluate results (see [here](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/2%20Basic%20Operations/2.2%20Evaluating%20Results.html))
+- Evaluate results (see [here](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon/lessons/qc_fastqc_assessment.html))
 
   
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
