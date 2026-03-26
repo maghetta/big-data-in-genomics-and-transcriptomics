@@ -292,6 +292,9 @@ Key steps: <br>
 </div><br><br><br>
 
 
+<br>
+<a href="images/modulo1/25_30.pdf" target="_blank">Open PDF</a><br><br><br>
+
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo1/applications3.jpeg" width="700"> <br>
