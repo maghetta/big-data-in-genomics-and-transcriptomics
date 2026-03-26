@@ -274,7 +274,28 @@ Key steps: <br>
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
-## Typical data analysis workflow: data preprocessing → quality control → analysis → visualization → interpretation
+### NGS Data Analysis Workflow
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/input_NGS_output.png" width="650">
+  <em>NGS input and output may appear similar, but analysis and interpretation depend on the type of fragments and the biological questions.</em>
+</div><br><br><br>
+
+
+
+
+Typical steps in NGS data analysis:
+- **Data preprocessing** – Quality control, trimming low-quality reads, and filtering contaminants to prepare clean data.
+- **Statistical analysis** – Identifying significant patterns, such as differential expression, variant calling, or enrichment analysis.
+- **Result visualization** – Creating graphs, heatmaps, or other plots to summarize and explore the data.
+- **Result interpretation** – Drawing biological conclusions, integrating findings with prior knowledge, and generating hypotheses.
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/overview_RNASeq_analysis.png" width="650">
+  <em>RNA-seq data analysis workflow: typical steps from raw reads to biological interpretation.</em>
+</div><br><br><br>
+
 
 
 ## Quality of sequencing reads: the Phred score
