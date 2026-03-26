@@ -277,7 +277,7 @@ Key steps: <br>
 ### NGS Data Analysis Workflow
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/input_NGS_output.png" width="650">
+  <img src="images/modulo1/input_NGS_output.png" width="650"><br>
   <em>NGS input and output may appear similar, but analysis and interpretation depend on the type of fragments and the biological questions.</em>
 </div><br><br><br>
 
