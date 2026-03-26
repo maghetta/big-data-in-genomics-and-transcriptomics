@@ -377,6 +377,12 @@ Note: you do not need to use [Galaxy](https://galaxyproject.github.io/training-m
 </div><br><br><br>
 
 
+> ❓ **A question for you**: *Mature microRNAs are typically 17–22 nucleotides long. A lab wants to study their expression using NGS. Which of the following sequencing strategies would you recommend, and why?*
+
+a. Single-cell sequencing, 50 bp read length (minimum sequencing length)
+b. Paired-end sequencing, 50 bp read length (minimum sequencing length)
+c. Paired-end sequencing, 150 bp read length
+
 
 ## Different Types of Omics Data
 
