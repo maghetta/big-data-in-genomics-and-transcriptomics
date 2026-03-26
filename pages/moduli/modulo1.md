@@ -349,10 +349,7 @@ Given a Phred score, you can calculate the following:
 - **the probability (P) that this base call is incorrect**, that is given by the formula
 
 ```
-$$
-P = 10^{-Q/10}
-$$
-
+\( P = 10^{-Q/10} \)
 ```
 
 - **the accuracy**, that is given by the formula
