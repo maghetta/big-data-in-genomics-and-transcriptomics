@@ -225,6 +225,13 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
   <em><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12047254/"> [...] Genome Res. 2025 Apr;35(4):599–620.</a></em>
 </div><br><br><br>
 
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/LRS_in_cancer.png" width="700"> <br>
+  <em><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12047254/"> [...] Genome Res. 2025 Apr;35(4):599–620.</a></em>
+</div><br><br><br>
+
+
 **key features:** direct sequencing (no amplification); long reads (up to 30.000 bp)  <br><br><br>
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
@@ -233,11 +240,6 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 
 ## The sequencing-by-synthesis approach
 
-
-<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/LRS_in_cancer.png" width="700"> <br>
-  <em><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12047254/"> [...] Genome Res. 2025 Apr;35(4):599–620.</a></em>
-</div><br><br><br>
 
 🎥 <a href="https://www.youtube.com/watch?v=fCd6B5HRaZ8"> Short video illustrating the Illumina sequencing technology <a>
 
@@ -255,7 +257,10 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 A **[Phred score (Q score)](https://en.wikipedia.org/wiki/Phred_quality_score)** is a numerical measure of base-calling quality in a sequencing read. 
 It represents the probability that a base call is incorrect on a logarithmic scale, as defined by the following formula:
 
+```
 Q = -10 log₁₀(P), where P represents the probability of an incorrect base call.
+
+```
 
 For instance: a score of Q20 indicates a 1% error rate (99% accuracy), while Q30 indicates a 0.1% error rate (99.9% accuracy).  <br>
 Higher scores indicate greater confidence in the base call. Q30 is generally considered the standard for high-quality. <br>
