@@ -249,10 +249,35 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 ## Typical data analysis workflow: data preprocessing → quality control → analysis → visualization → interpretation
 
 
-## Svolgimento tutorial in R: "Introduzione alla Console R"
+## Quality of sequencing reads: the Phred score
 <br>
 
+A **Phred score (Q score)** is a numerical measure of the quality of base calling in DNA sequencing.
+It represents the probability that a base call is incorrect. 
+It is a logarithmic scale where 
 
+Q = -10 log₁₀(P), where P represents the probability of an incorrect base call.
+
+For instance: a score of Q20 indicates a 1% error rate (99% accuracy), while Q30 indicates a 0.1% error rate (99.9% accuracy).  <br>
+Higher scores indicate greater confidence in the base call. Q30 is generally considered the standard for high-quality. <br>
+
+**Scale**: Scores typically range from 0 to 60+.
+- Q10: 1 in 10 error rate (90% accuracy).
+- Q20: 1 in 100 error rate (99% accuracy).
+- Q30: 1 in 1,000 error rate (99.9% accuracy).
+- Q40: 1 in 10,000 error rate (99.99% accuracy).
+
+
+
+**Commonly Used Thresholds:** <br>
+- less than 20: Poor quality <br>
+- betwee 20 and 28: Reasonable quality  <br>
+- over 28: Good quality  <br>
+
+
+
+ (with 
+ being the error probability). A score of Q20 indicates a 1% error rate (99% accuracy), while Q30 indicates a 0.1% error rate (99.9% accuracy).
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
 
