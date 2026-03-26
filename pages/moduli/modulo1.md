@@ -245,6 +245,15 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 > ❓ **A question for you**: *Can Sanger sequencing be classified as sequencing-by-synthesis (SBS)? Why or why not?*
 
 
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo1/SBS.jpg" width="700"> <br>
+  <em>Image credits: <a href="https://cmb.i-learn.unito.it/mod/wiki/prettyview.php?pageid=98">https://cmb.i-learn.unito.it/</a></em>
+</div><br><br><br>
+
+
+
 Key steps: <br>
 - **Attach to Something (Immobilization)**: DNA fragments are attached to a solid support, such as a flow cell (Illumina) or beads (454/Ion Torrent).
 - **Amplify Signal (Signal Amplification)**: To make the signal detectable, single molecules are amplified into local clusters of identical copies. <br>
