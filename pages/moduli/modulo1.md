@@ -226,12 +226,6 @@ Long-read sequencing has enabled personalized, haplotype-resolved cancer genomic
 </div><br><br><br>
 
 
-<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo1/LRS_in_cancer.png" width="700"> <br>
-  <em><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12047254/"> [...] Genome Res. 2025 Apr;35(4):599–620.</a></em>
-</div><br><br><br>
-
-
 **key features:** direct sequencing (no amplification); long reads (up to 30.000 bp)  <br><br><br>
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
@@ -345,8 +339,26 @@ Higher scores indicate greater confidence in the base call. Q30 is generally con
 
 **Commonly Used Thresholds:** <br>
 - less than 20: Poor quality <br>
-- betwee 20 and 28: Reasonable quality  <br>
+- between 20 and 28: Reasonable quality  <br>
 - over 28: Good quality  <br>
+
+
+
+Given a Phred score, you can calculate the following:
+
+- **the probability (P) that this base call is incorrect**, that is given by the formula
+
+```
+$$
+P = 10^{-Q/10}
+$$
+
+```
+
+- **the accuracy**, that is given by the formula
+
+
+
 
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
@@ -354,6 +366,18 @@ Higher scores indicate greater confidence in the base call. Q30 is generally con
 Note: you do not need to use [Galaxy](https://galaxyproject.github.io/training-material/topics/introduction/) to perform this step.
 
 > ❓ **A question for you**: *By examining the [full list of ASCII symbols](https://commons.wikimedia.org/wiki/File:ASCII-Table-wide.svg), can you guess why the characters used for quality encoding start at ASCII code 33?*
+
+
+> ❓ **A challenge for you**: From Phred score to accuracy
+
+*A sequencing read has a Phred quality score (Q) of 30 at a given base.* <br>
+
+*What is the probability (P) that this base call is incorrect?*
+
+*What is the corresponding accuracy (i.e., probability that the base call is correct)?*
+
+
+
 
 
 
