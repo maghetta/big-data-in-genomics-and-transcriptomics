@@ -281,7 +281,7 @@ Higher scores indicate greater confidence in the base call. Q30 is generally con
 <hr style="border: 1px solid gray; width: 50%;"><br><br><br>
 
 > ❓ **A challenge for you**: Complete the first point (*Inspect a raw sequence file*) in this [Galaxy tutorial on Quality control](https://training.galaxyproject.org/training-material/topics/sequence-analysis/tutorials/quality-control/tutorial.html#per-base-sequence-quality)
-Note: you do not need to use Galaxy to perform this step.
+Note: you do not need to use [Galaxy](https://galaxyproject.github.io/training-material/topics/introduction/) to perform this step.
 
 
 
