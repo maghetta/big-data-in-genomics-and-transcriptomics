@@ -27,6 +27,11 @@ In genomics and transcriptomics, **standard data formats** are essential for ens
 </div><br><br>
 
 
+
+> ❓ **Challenge question**: *How many sequences would you expect to find in a FASTA file containing the human genome? Why?*
+
+
+
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo2/sam_bam.png" width="600">
 </div><br><br>
