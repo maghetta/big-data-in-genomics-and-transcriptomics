@@ -32,6 +32,12 @@ In genomics and transcriptomics, **standard data formats** are essential for ens
 > ❓ **Challenge question**: *Knowing the size of the human genome and assuming ~1 byte per character, what is the expected size of a FASTA file containing the entire genome?*
 
 
+**A small FASTQ file to play with**<br>
+
+Thi is a microbiome sample from [Jacques et al. 2021](https://doi.org/10.24918/cs.2021.17).
+<a href="https://zenodo.org/record/3977236/files/female_oral2.fastq-4143.gz" target="_blank">Download gunzipped FASTQ file</a><br><br><br>
+
+
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo2/sam_bam.png" width="600">
 </div><br><br>
