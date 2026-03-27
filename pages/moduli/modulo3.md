@@ -21,10 +21,10 @@ By the end of this activity, you should be able to:
 
 - Retrieve the HGNC symbol for a given human gene
 - Retrieve a list of all human genes annotated with a given GO (Gene Ontology) term
-- Descrive the scope of a differential expression analysis
-- Identify differentially expressed genes in the GSE
-- Descrive the scope of a functional enrichment analysis
-- Retrieve enriched functional annotations for a gene list of interest by using the gProfiler webtool
+- Describe the scope of a differential expression analysis
+- Describe the scope of a functional enrichment analysis
+- Identify differentially expressed genes in the GSE8671 dataset
+- Retrieve enriched functional annotations for a gene list of interest using the gProfiler webtool
 
 
 
