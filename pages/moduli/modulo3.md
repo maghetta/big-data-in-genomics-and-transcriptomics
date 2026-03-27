@@ -8,10 +8,10 @@ title: Modulo 3
 Explore selected bioinformatics resources:
 
 - NCBI Gene and Ensembl (gene annotation databases)
-- GO and KEGG (gene functional annotations)
 - BioMart (retrieve gene list information without programming)
 - NCBI GEO (experimental data repository)
 - GEO2R (differential expression analysis tool)
+- GO and KEGG (gene functional annotations)
 - gProfiler (functional enrichment analysis tool)
   
 
