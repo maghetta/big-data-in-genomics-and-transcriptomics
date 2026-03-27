@@ -14,17 +14,18 @@ Explore selected bioinformatics resources:
 - gProfiler (functional enrichment analysis tool)
   
 
-## Obiettivi conoscitivi
+## Learning Objectives
 
-Al termine di questa attività dovresti essere in grado di:
+By the end of this activity, you should be able to:
 
-- ottenere una lista di tutti i geni umani annotatati per un certo termine GO (Gene Ontology)
+- Retrieve the HGNC symbol for a given human gene
+- Retrieve a list of all human genes annotated with a given GO (Gene Ontology) term.
 
 
 
 # Gene Annotations: NCBI Gene e Ensembl
 
-Using the two databases mentioned above (NCBI Gene and Ensembl), try to answer the following questions about the **human gene ZFP36**.
+Using the two databases mentioned above ([NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/) and [Ensembl](https://www.ensembl.org/)), try to answer the following questions about the **human gene ZFP36**.
 
 Note: Use this activity as an opportunity to explore the databases visually, taking your time and browsing through the different sections available for a gene of interest. Be curious and pay attention to the various types of information provided.
 
@@ -35,6 +36,13 @@ Note: Use this activity as an opportunity to explore the databases visually, tak
 - *How many transcripts are annotated for this gene in Ensembl? Are they all protein-coding?*
 - *How many transcripts are annotated for this gene in NCBI Gene? Are they all protein-coding?*
 
+
+**Take-home messages from the above activity:** <br>
+- The role of identifiers in a database  
+- The main gene identifiers used in core gene annotation databases such as NCBI Gene, Ensembl, and, for human genes, [HGNC](https://www.genenames.org/) symbols
+- The meaning of [MANE](https://www.ncbi.nlm.nih.gov/refseq/MANE/) flags in annotated transcripts
+
+❓ **A challenge for you**: *What is the official gene symbol (i.e., HGNC symbol) for the NUP475 gene?*
 
 
 # Gene Functional Annotations: Gene Ontology (GO) and KEGG
