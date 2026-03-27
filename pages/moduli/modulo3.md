@@ -107,7 +107,7 @@ You can do so **for all genes in a genome** at once, or **for just a subset of t
 
 
 ### Where to start with BioMart
-- Open [BioMart](https://www.ensembl.org/biomart) in a browser. (Alternatively, go to the Ensembl website and select “BioMart” from the top menu.)
+- Open **BioMart** in a browser. (i.e., go to the [Ensembl website](https://www.ensembl.org/) and select “BioMart” from the top menu.)
 - Follow the BioMart tutorial available among the Ensembl training materials [here](https://grch37.ensembl.org/info/website/tutorials/module5_feb2009_ensembl.pdf):
 
 A new version of the Ensembl database is released approximately every three months, incorporating updated genome annotations. The tutorial above is based on an older Ensembl release (version 52, from 2009). While the overall structure and logic of BioMart remain consistent, some details—such as filter and attribute names—may differ in current releases. You may therefore need to adapt parts of the tutorial to match the latest version of the database.
