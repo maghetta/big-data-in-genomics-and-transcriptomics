@@ -86,8 +86,11 @@ You can do so **for all genes in a genome** at once, or **for just a subset of t
 A new version of the Ensembl database is released approximately every three months, incorporating updated genome annotations. The tutorial above is based on an older Ensembl release (version 52, from 2009). While the overall structure and logic of BioMart remain consistent, some details—such as filter and attribute names—may differ in current releases. You may therefore need to adapt parts of the tutorial to match the latest version of the database.
 
 
-❓ **A challenge for you**: *How many human genes are annotated as having DNA-binding transcription factor activity (i.e., GO term GO:0003700)* *Find their official gene symbols (HGNC)*
+❓ **A challenge for you**: *How many human genes are annotated as having DNA-binding transcription factor activity (i.e., GO term GO:0003700)* *Find their official gene symbols (HGNC)*<br><br><br>
   
+
+# Analysis of Differentially Expressed Genes
+Please refer to the introduction and the first challenge available on [this website](https://sites.google.com/uniroma1.it/last-update-jan-13-2023/home/module-6).
 
 
 # Functional Annotation of Genes: Gene Ontology (GO), KEGG and more
