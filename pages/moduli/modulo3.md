@@ -17,7 +17,7 @@ Al termine di questa attività dovresti essere in grado di:
 
 
 
-# Gene annotations: NCBI Gene e Ensembl
+# Gene Annotations: NCBI Gene e Ensembl
 
 Using the two databases mentioned above (NCBI Gene and Ensembl), try to answer the following questions about the **human gene ZFP36**.
 
@@ -32,7 +32,7 @@ Note: Use this activity as an opportunity to explore the databases visually, tak
 
 
 
-# Gene functional annotations
+# Gene Functional Annotations: Gene Ontology (GO) and KEGG
 
 ## Gene Ontology
 
