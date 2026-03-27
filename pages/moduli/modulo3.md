@@ -95,7 +95,7 @@ The Ensembl BioMart datamining tool offers a single and harmonized access point 
 You can use BioMart to **collect gene information** or gene mapping among different databases in tabular format, or to get gene sequences. 
 You can do so **for all genes in a genome** at once, or **for just a subset of them** (such as only genes on one specific region of a chromosome, or genes on one region of a chromosome associated with a given protein domain).
 
-🎥 <a href="https://youtu.be/QvGT2G0-hYA?si=3Pn8t1aHDyIOcITF">Short video from the Ensembl Training channel introducing BioMart</a>
+🎥 <a href="https://www.youtube.com/watch?v=QvGT2G0-hYA">Short video from the Ensembl Training channel introducing BioMart</a>
 
 
 ### Core arguments of any BioMart search
