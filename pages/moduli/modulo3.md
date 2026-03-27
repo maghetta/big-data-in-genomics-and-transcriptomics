@@ -90,7 +90,7 @@ A new version of the Ensembl database is released approximately every three mont
   
 
 # Analysis of Differentially Expressed Genes
-Please refer to the introduction and the first challenge available on [this website](https://sites.google.com/uniroma1.it/last-update-jan-13-2023/home/module-6).
+Please refer to the introduction and the first challenge available on [this website](https://sites.google.com/uniroma1.it/laboratorio-di-bioinformatica/moduli-tematici/modulo-3).
 
 
 # Functional Annotation of Genes: Gene Ontology (GO), KEGG and more
