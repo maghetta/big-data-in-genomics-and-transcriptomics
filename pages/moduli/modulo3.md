@@ -8,6 +8,7 @@ title: Modulo 3
 Explore selected bioinformatics resources:
 
 - NCBI Gene and Ensembl (gene annotation databases)
+- GO and KEGG (gene functional annotations)
 - BioMart (retrieve gene list information without programming)
 - NCBI GEO (experimental data repository)
 - GEO2R (differential expression analysis tool)
@@ -49,9 +50,13 @@ Note: Use this activity as an opportunity to explore the databases visually, tak
 
 ## Gene Ontology
 
-The **Gene Ontology (GO)** provides a rigorously defined set of concepts that describe the functions of gene products. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
-  
-GO is organized in three aspects. 
+The [**Gene Ontology (GO)**](https://geneontology.org/) provides a rigorously defined set of concepts that describe the functions of gene products. It uses a **controlled vocabulary** to consistently describe gene functions and improve data integration, comparability, and interoperability across databases and studies. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
+
+
+The **Gene Ontology (GO)** provides a rigorously defined set of concepts that describe the functions of gene products. It uses a **controlled vocabulary** to consistently describe gene knowledge and improve data integration, comparability, and interoperability across databases and studies. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
+
+GO is organized into [three hierarchical, structured ontologies (tree-like categories)](https://amigo.geneontology.org/amigo/dd_browse) that describe gene products in terms of molecular function, biological processe and cellular component. Specifically: 
+
 - **GO Molecular Functions (MF)** describe activities that occur at the molecular level, such as “DNA binding transcription factor activity” or “histone deacetylase activity”.
 - **Biological Processes (BP)** represent the larger processes or ‘biological programs’ accomplished by multiple molecular activities. Examples of broad biological process terms are “transcription” or “signal transduction”.
 - **Cellular Components (CC)** are the cellular structures in which a gene product performs a function, either cellular compartments (e.g., “nucleus” or “chromatin”), or stable macromolecular complexes of which they are parts (e.g., “RNA polymerase II”).
