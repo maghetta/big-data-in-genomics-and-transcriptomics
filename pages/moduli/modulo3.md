@@ -4,10 +4,15 @@ title: Modulo 3
 
 ![modulo3](images/modulo3/modulo3.jpg)
 
-## Argomenti
+## Topics
+Explore selected bioinformatics resources:
 
-- *...*
-
+- NCBI Gene and Ensembl (gene annotation databases)
+- BioMart (retrieve gene list information without programming)
+- NCBI GEO (experimental data repository)
+- GEO2R (differential expression analysis tool)
+- gProfiler (functional enrichment analysis tool)
+  
 
 ## Obiettivi conoscitivi
 
@@ -48,11 +53,6 @@ Together, annotations of a gene to terms from each of those aspects **describe w
 
 
 
-## the BioMart tool @ EBI 
-
-
-
-
 ## the BioMart tool @ EBI: 
 
 The Ensembl BioMart datamining tool offers a single and harmonized access point to a huge amount of information gathered together from hundreds data resources from the EBI-EMBL suite as well as from third-party databases (e.g. miRBase, HUGO, GO). It allows to perform complex queries with **no need for computational or programming knowledge**.
@@ -80,6 +80,9 @@ A new version of the Ensembl database is released approximately every three mont
 
 ❓ **A challenge for you**: *How many human genes are annotated as having DNA-binding transcription factor activity (i.e., GO term GO:0003700)* *Find their official gene symbols (HGNC)*
   
+
+
+
 
 
 
