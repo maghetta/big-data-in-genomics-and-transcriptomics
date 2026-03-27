@@ -65,10 +65,10 @@ You can do so **for all genes in a genome** at once, or **for just a subset of t
 
 ### Core arguments of any BioMart search
 
-**Mart**: the combination of database (e.g. Ensembl Genes version XX) and dataset (e.g. human genes for genome build GRChYY) to be queried
-**Filters**: define which genes (or entries) you want to retrieve
-**Values**: identifiers to be used along with the filters
-**Attributes**: the fields/columns returned in the results table (or in sequence headers for sequence outputs)
+- **Mart**: the combination of database (e.g. Ensembl Genes version XX) and dataset (e.g. human genes for genome build GRChYY) to be queried
+- **Filters**: define which genes (or entries) you want to retrieve
+- **Values**: identifiers to be used along with the filters
+- **Attributes**: the fields/columns returned in the results table (or in sequence headers for sequence outputs)
 
 
 ### Where to start with BioMart
@@ -78,7 +78,7 @@ You can do so **for all genes in a genome** at once, or **for just a subset of t
 A new version of the Ensembl database is released approximately every three months, incorporating updated genome annotations. The tutorial above is based on an older Ensembl release (version 52, from 2009). While the overall structure and logic of BioMart remain consistent, some details—such as filter and attribute names—may differ in current releases. You may therefore need to adapt parts of the tutorial to match the latest version of the database.
 
 
-**A challenge for you**: *Find official gene symbols (HGNC) for all human genes annotated by the GO term GO:0003700 (DNA-binding transcription factor activity)*
+❓ **A challenge for you**: *How many human genes are annotated as having DNA-binding transcription factor activity (i.e., GO term GO:0003700)* *Find their official gene symbols (HGNC)*
   
 
 
