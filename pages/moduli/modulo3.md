@@ -120,10 +120,3 @@ A new version of the Ensembl database is released approximately every three mont
 
 
 
-
-
-
-
-**References:**
-
-- [*Gene Ontology representation for transcription factor functions*. Volume 1864, Issues 11–12, November–December 2021, 194752](https://www.sciencedirect.com/science/article/pii/S1874939921000705)
