@@ -24,10 +24,14 @@ By the end of this activity, you should be able to:
 
 
 
-# 
+# Biological databases: data types and examples
+<br>
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo3/databases.png" width="800"> <br>
+  <em> Examples of biological molecules and biological databases storing the corresponding data type (image credits: figure 2.4 from <a href="https://www.wiley.com/en-it/Bioinformatics+and+Functional+Genomics%2C+3rd+Edition-p-9781118581780">B&FG</a>)</em>
+</div>
+<br>
 
-
-Examples of biological molecules and biological databases storing the corresponding data type (image credits: figure 2.4 from [B&FG](https://www.wiley.com/en-it/Bioinformatics+and+Functional+Genomics%2C+3rd+Edition-p-9781118581780))
 
 
 # Gene Annotations: NCBI Gene e Ensembl
