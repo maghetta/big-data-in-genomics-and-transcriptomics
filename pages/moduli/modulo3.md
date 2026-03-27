@@ -20,7 +20,11 @@ Explore selected bioinformatics resources:
 By the end of this activity, you should be able to:
 
 - Retrieve the HGNC symbol for a given human gene
-- Retrieve a list of all human genes annotated with a given GO (Gene Ontology) term.
+- Retrieve a list of all human genes annotated with a given GO (Gene Ontology) term
+- Descrive the scope of a differential expression analysis
+- Identify differentially expressed genes in the GSE
+- Descrive the scope of a functional enrichment analysis
+- Retrieve enriched functional annotations for a gene list of interest by using the gProfiler webtool
 
 
 
@@ -56,7 +60,7 @@ Note: Use this activity as an opportunity to explore the databases visually, tak
 ❓ **A challenge for you**: *What is the official gene symbol (i.e., HGNC symbol) for the NUP475 gene?*
 
 
-# Gene Functional Annotations: Gene Ontology (GO) and KEGG
+# Functional Annotation of Genes: Gene Ontology (GO), KEGG and more
 
 ## Gene Ontology
 
@@ -73,6 +77,14 @@ GO is organized into [three hierarchical, structured ontologies (tree-like categ
 
 Together, annotations of a gene to terms from each of those aspects **describe what specific function a gene product plays in a process and where this activity occurs in the cell**.
 
+## Cellular pathways
+
+Gene function can also be annotated within the context of cellular processes and biological pathways, providing higher-level and more informative insights, although for a smaller number of well-characterized genes compared to GO annotations.
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo3/pathways_databases.png" width="800"> <br>
+</div>
+<br>
 
 
 
