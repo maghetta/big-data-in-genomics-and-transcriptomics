@@ -122,7 +122,7 @@ Gene function can also be annotated within the context of cellular processes and
 
 # Functional enrichment analysis of a list of genes
 
-[**Functional enrichment analysis**](https://bioinformatics.ccr.cancer.gov/btep/pathways-and-gene-sets-what-is-functional-enrichment-analysis/) is a commonly used approach to infer relevant gene characteristics and cellular processes associated with a gene list of interest. It compares the proportion of genes associated with a given gene set in the input list to that in a background gene list, in order to determine whether the gene set is over- or under-represented. Statistical significance is typically assessed using Fisher’s exact test, a chi-squared test, or similar methods.
+**Functional enrichment analysis** is a commonly used approach to infer relevant gene characteristics and cellular processes associated with a gene list of interest. It compares the proportion of genes associated with a given gene set in the input list to that in a background gene list, in order to determine whether the gene set is over- or under-represented. Statistical significance is typically assessed using Fisher’s exact test, a chi-squared test, or similar methods.
 
 👉 Learn how to perferm functional enrichment analysis of a gene list of interest using the [gProfiler webtool](https://biit.cs.ut.ee/gprofiler/gost). 
 
