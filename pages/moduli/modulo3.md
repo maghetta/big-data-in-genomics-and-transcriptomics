@@ -13,7 +13,34 @@ title: Modulo 3
 
 Al termine di questa attività dovresti essere in grado di:
 
--
+- ottenere una lista di tutti i geni umani annotatati per un certo termine GO (Gene Ontology)
+
+
+
+# Gene functional annotations
+
+## Gene Ontology
+
+The **Gene Ontology (GO)** provides a rigorously defined set of concepts that describe the functions of gene products. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
+  
+GO is organized in three aspects. 
+- **GO Molecular Functions (MF)** describe activities that occur at the molecular level, such as “DNA binding transcription factor activity” or “histone deacetylase activity”.
+- **Biological Processes (BP)** represent the larger processes or ‘biological programs’ accomplished by multiple molecular activities. Examples of broad biological process terms are “transcription” or “signal transduction”.
+- **Cellular Components (CC)** are the cellular structures in which a gene product performs a function, either cellular compartments (e.g., “nucleus” or “chromatin”), or stable macromolecular complexes of which they are parts (e.g., “RNA polymerase II”).
+
+Together, annotations of a gene to terms from each of those aspects **describe what specific function a gene product plays in a process and where this activity occurs in the cell**.
+
+
+
+
+
+
+
+
+## the BioMart tool @ EBI 
+
+
+
 
 ## the BioMart tool @ EBI
 
@@ -36,3 +63,16 @@ You can do so **for all genes in a genome** at once, or **for just a subset of t
 - Follow the BioMart tutorial available among the Ensembl training materials [here](https://grch37.ensembl.org/info/website/tutorials/module5_feb2009_ensembl.pdf):
 
 A new version of the Ensembl database is released approximately every three months, incorporating updated genome annotations. The tutorial above is based on an older Ensembl release (version 52, from 2009). While the overall structure and logic of BioMart remain consistent, some details—such as filter and attribute names—may differ in current releases. You may therefore need to adapt parts of the tutorial to match the latest version of the database.
+
+
+**A challenge for you**: *Find official gene symbols (HGNC) for all human genes annotated by the GO term GO:0003700 (DNA-binding transcription factor activity)*
+  
+
+
+
+
+
+
+**References:**
+
+- [*Gene Ontology representation for transcription factor functions*. Volume 1864, Issues 11–12, November–December 2021, 194752](https://www.sciencedirect.com/science/article/pii/S1874939921000705)
