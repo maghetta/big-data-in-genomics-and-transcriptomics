@@ -17,6 +17,21 @@ Al termine di questa attività dovresti essere in grado di:
 
 
 
+# Gene annotations: NCBI Gene e Ensembl
+
+Using the two databases mentioned above (NCBI Gene and Ensembl), try to answer the following questions about the **human gene ZFP36**.
+
+Note: Use this activity as an opportunity to explore the databases visually, taking your time and browsing through the different sections available for a gene of interest. Be curious and pay attention to the various types of information provided.
+
+- *On which chromosome is this gene located?*
+- *What type of protein does it encode?*
+- *What is its identifier (ID) in the NCBI Gene database? And in Ensembl? Are they the same?*
+- *What is its official name (HGNC symbol)?*
+- *How many transcripts are annotated for this gene in Ensembl? Are they all protein-coding?*
+- *How many transcripts are annotated for this gene in NCBI Gene? Are they all protein-coding?*
+
+
+
 # Gene functional annotations
 
 ## Gene Ontology
