@@ -60,33 +60,6 @@ Note: Use this activity as an opportunity to explore the databases visually, tak
 ❓ **A challenge for you**: *What is the official gene symbol (i.e., HGNC symbol) for the NUP475 gene?*
 
 
-# Functional Annotation of Genes: Gene Ontology (GO), KEGG and more
-
-## Gene Ontology
-
-The [**Gene Ontology (GO)**](https://geneontology.org/) provides a rigorously defined set of concepts that describe the functions of gene products. It uses a **controlled vocabulary** to consistently describe gene functions and improve data integration, comparability, and interoperability across databases and studies. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
-
-
-The **Gene Ontology (GO)** provides a rigorously defined set of concepts that describe the functions of gene products. It uses a **controlled vocabulary** to consistently describe gene knowledge and improve data integration, comparability, and interoperability across databases and studies. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
-
-GO is organized into [three hierarchical, structured ontologies (tree-like categories)](https://amigo.geneontology.org/amigo/dd_browse) that describe gene products in terms of molecular function, biological processe and cellular component. Specifically: 
-
-- **GO Molecular Functions (MF)** describe activities that occur at the molecular level, such as “DNA binding transcription factor activity” or “histone deacetylase activity”.
-- **Biological Processes (BP)** represent the larger processes or ‘biological programs’ accomplished by multiple molecular activities. Examples of broad biological process terms are “transcription” or “signal transduction”.
-- **Cellular Components (CC)** are the cellular structures in which a gene product performs a function, either cellular compartments (e.g., “nucleus” or “chromatin”), or stable macromolecular complexes of which they are parts (e.g., “RNA polymerase II”).
-
-Together, annotations of a gene to terms from each of those aspects **describe what specific function a gene product plays in a process and where this activity occurs in the cell**.
-
-## Cellular pathways
-
-Gene function can also be annotated within the context of cellular processes and biological pathways, providing higher-level and more informative insights, although for a smaller number of well-characterized genes compared to GO annotations.
-
-<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo3/pathways_databases.png" width="800"> <br>
-</div>
-<br>
-
-
 
 ## the BioMart tool @ EBI: 
 
@@ -117,6 +90,36 @@ A new version of the Ensembl database is released approximately every three mont
   
 
 
+# Functional Annotation of Genes: Gene Ontology (GO), KEGG and more
+
+## Gene Ontology
+
+The [**Gene Ontology (GO)**](https://geneontology.org/) provides a rigorously defined set of concepts that describe the functions of gene products. It uses a **controlled vocabulary** to consistently describe gene functions and improve data integration, comparability, and interoperability across databases and studies. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
+
+
+The **Gene Ontology (GO)** provides a rigorously defined set of concepts that describe the functions of gene products. It uses a **controlled vocabulary** to consistently describe gene knowledge and improve data integration, comparability, and interoperability across databases and studies. GO develops a computational model of biological systems, ranging from the molecular to the organism level, across all species in the tree of life. GO aims to **provide a comprehensive representation of the current scientific knowledge** about the functions of gene products, namely, proteins and non-coding RNA molecules. 
+
+GO is organized into [three hierarchical, structured ontologies (tree-like categories)](https://amigo.geneontology.org/amigo/dd_browse) that describe gene products in terms of molecular function, biological processe and cellular component. Specifically: 
+
+- **GO Molecular Functions (MF)** describe activities that occur at the molecular level, such as “DNA binding transcription factor activity” or “histone deacetylase activity”.
+- **Biological Processes (BP)** represent the larger processes or ‘biological programs’ accomplished by multiple molecular activities. Examples of broad biological process terms are “transcription” or “signal transduction”.
+- **Cellular Components (CC)** are the cellular structures in which a gene product performs a function, either cellular compartments (e.g., “nucleus” or “chromatin”), or stable macromolecular complexes of which they are parts (e.g., “RNA polymerase II”).
+
+Together, annotations of a gene to terms from each of those aspects **describe what specific function a gene product plays in a process and where this activity occurs in the cell**.
+
+## Cellular pathways
+
+Gene function can also be annotated within the context of cellular processes and biological pathways, providing higher-level and more informative insights, although for a smaller number of well-characterized genes compared to GO annotations.
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo3/pathways_databases.png" width="800"> <br>
+</div>
+<br>
+
+
+# Functional enrichment analysis of a list of genes
+
+[**Functional enrichment analysis**](https://bioinformatics.ccr.cancer.gov/btep/pathways-and-gene-sets-what-is-functional-enrichment-analysis/) is a commonly used approach to infer relevant gene characteristics and cellular processes associated with a gene list of interest. It compares the proportion of genes associated with a given gene set in the input list to that in a background gene list, in order to determine whether the gene set is over- or under-represented. Statistical significance is typically assessed using Fisher’s exact test, a chi-squared test, or similar methods.
 
 
 
