@@ -21,7 +21,7 @@ Al termine di questa attività dovresti essere in grado di:
 
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo3/jimkent.png" width="800"> <br>
+  <img src="images/modulo4/jimkent.png" width="800"> <br>
 </div>
 <br>
 
