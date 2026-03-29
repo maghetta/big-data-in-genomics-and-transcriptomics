@@ -39,7 +39,7 @@ The first version of this graphical tool, designed to navigate the newly release
 <br>
 
 
-## The UCSC Genome Browser
+## Navigating Genomic Information: the UCSC Genome Browser
 
 
 
