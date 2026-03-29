@@ -27,13 +27,16 @@ By the end of this activity, you should be able to:
 
 
 
+## UCSC and the Birth of the Genome Browser
 
+The University of California, Santa Cruz (UCSC) Genome Browser was developed by graduate student Jim Kent, and its development is intertwined with the final and crucial steps of the Human Genome Project.
+The first version of this graphical tool, designed to navigate the newly released draft of the human genome, was published on July 7, 2000.
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo4/jimkent.png" width="800"> <br>
 </div>
 <br>
-
+https://youtu.be/_6caCfvMIiY?si=pmTY4fWuTc1i1nmV
 
 
 
