@@ -18,6 +18,9 @@ Al termine di questa attività dovresti essere in grado di:
 
 
 
+jimkent.png
+
+
 
 ```
 # Installazione del pacchetto dplyr (da eseguire una sola volta)
