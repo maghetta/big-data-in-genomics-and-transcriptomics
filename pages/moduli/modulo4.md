@@ -43,6 +43,8 @@ The first version of this graphical tool, designed to navigate the newly release
 
 
 
+## Tools at the UCSC Genome Browser: BLAT, Table Browser, Custom Tracks, In-Silico PCR, LiftOver 
+
 
 ```
 # Installazione del pacchetto dplyr (da eseguire una sola volta)
