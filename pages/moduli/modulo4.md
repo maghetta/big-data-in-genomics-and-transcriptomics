@@ -47,16 +47,47 @@ The first version of this graphical tool, designed to navigate the newly release
 
 ## Core Tools at UCSC:
 
-- **Genome Browser**: The main visualization tool that displays any portion of a genome at any scale with aligned annotation tracks showing genes, regulatory elements, conservation, variants, and other genomic features.
+- **Genome Browser**: The main visualization tool that displays any portion of a genome at any scale with aligned annotation tracks showing genes, regulatory elements, conservation, variants, and other genomic features.<br><br>
 
 - **BLAT (BLAST-Like Alignment Tool)**: A rapid sequence alignment tool developed by Jim Kent for finding sequence matches in genomes. Faster than BLAST for closely related sequences and useful for locating mRNA/EST alignments.
 
-- **Table Browser**: A web interface for querying, filtering, and downloading data from the underlying MySQL databases. Allows intersection of data tables and export in multiple formats. See below for more related terms, or our documentation.
+- **Table Browser**: A web interface for querying, filtering, and downloading data from the underlying MySQL databases. Allows intersection of data tables and export in multiple formats. See below for more related terms, or our documentation.<br>
 
-- **LiftOver**: A tool for converting genomic coordinates between different genome assemblies (e.g., hg19 to hg38). Requires chain files that map regions between assemblies.
+- **LiftOver**: A tool for converting genomic coordinates between different genome assemblies (e.g., hg19 to hg38). Requires chain files that map regions between assemblies.<br>
 
-- **In-Silico PCR**: A tool for virtually testing PCR primer pairs against a genome to verify specificity and predict amplicon locations.
+- **In-Silico PCR**: A tool for virtually testing PCR primer pairs against a genome to verify specificity and predict amplicon locations.<br>
 
+
+
+### **Genome Browser**
+See an overview of the Genome Browser interface, highlighting its layout, navigation, and key functional elements at [this link](.
+
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-11-29.png" width="800"> <br>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 10-59-59.png" width="800"> <br>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-00-08.png" width="800"> <br>
+</div><br><br><br>
+
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-00-44.png" width="800"> <br>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-01-02.png" width="800"> <br>
+</div><br><br><br>
 
 
 ```
