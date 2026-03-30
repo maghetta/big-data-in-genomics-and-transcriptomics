@@ -16,7 +16,9 @@ Exploring the UCSC Genome Browser and Associated Tools
 
 By the end of this activity, you should be able to:
 
-    Retrieve the HGNC symbol for a given human gene
+    - Visualize a genomic locus in the UCSC Genome Browser and identify key genomic features (e.g., genes, exons, regulatory elements)
+    - Customize the genomic view by selecting desired annotation tracks (e.g. variation, genes annotated by GENCODE) and deselecting unwanted ones (e.g.  
+    - Map an unknown DNA sequence to a reference genome using a genome browser and interpret its genomic context (e.g., gene location, nearby features) 
     Retrieve a list of all human genes annotated with a given GO (Gene Ontology) term
     Describe the scope of a differential expression analysis
     Describe the scope of a functional enrichment analysis
@@ -55,10 +57,6 @@ The first version of this graphical tool, designed to navigate the newly release
 
 - **In-Silico PCR**: A tool for virtually testing PCR primer pairs against a genome to verify specificity and predict amplicon locations.
 
-- **Variant Annotation Integrator**: A tool for annotating genomic variants using multiple data sources to predict functional effects.
-
-- **Data Integrator**: A tool for intersecting and combining data from multiple annotation tracks simultaneously. 
-
 
 
 ```
@@ -70,3 +68,8 @@ Una volta installato, puoi caricare il pacchetto dplyr utilizzando library().
 mtcars_sorted <- arrange(mtcars, desc(hp))
 head(mtcars_sorted)
 ```
+
+**References**
+
+- UCSC video tutorials and training material <a href="https://genome.ucsc.edu/training/">https://genome.ucsc.edu/training/</a>
+
