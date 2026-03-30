@@ -21,3 +21,10 @@ One of the enduring legacies of the Human Genome Project has been the recognitio
 - Human Cell Atlas – comprehensive reference of human cell types
 
 
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo5/nuovo_paradigma.png" width="800"> <br>
+  <em> A new research paradigm: international collaborations, vastly larger sample sizes beyond the reach of individual laboratories, open data accessibility, standardized methods, and enhanced documentation and reproducibility.</em>
+</div>
+<br>
+
+
