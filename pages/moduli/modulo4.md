@@ -106,7 +106,10 @@ See an overview of the Genome Browser interface, highlighting its layout, naviga
 
 
 ## How to: find sequence matches to the genome (BLAT) and create and upload a custom BED file to the UCSC Genome Browser<br><br>
-See <a href="https://sites.google.com/uniroma1.it/laboratorio-di-bioinformatica/moduli-tematici/modulo-4">here</a>)<br><br>
+See <a href="https://sites.google.com/uniroma1.it/laboratorio-di-bioinformatica/moduli-tematici/modulo-4">here</a><br><br> the following activities: <br>
+- *Attività: dove mappa questa sequenza sul genoma?!*<br>
+- *Attività: crea un file BED per una lista di geni di interesse*<br>
+
 
 
 **References**<br><br>
