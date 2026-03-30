@@ -32,7 +32,7 @@ The first version of this graphical tool, designed to navigate the newly release
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo4/jimkent.png" width="800"> <br>
-  <em> A still from a short video on the history of the UCSC Genome Browser and its role in the Human Genome Project, available <a href="https://youtu.be/_6caCfvMIiY?si=pmTY4fWuTc1i1nmV">here: https://youtu.be/_6caCfvMIiY?si=pmTY4fWuTc1i1nmV</a>
+  <em> A still from a short video on the history of the UCSC Genome Browser and its role in the Human Genome Project, available <a href="https://youtu.be/_6caCfvMIiY?si=pmTY4fWuTc1i1nmV">here: https://youtu.be/_6caCfvMIiY?si=pmTY4fWuTc1i1nmV</a><em> 
 </div><br><br><br>
 
 
