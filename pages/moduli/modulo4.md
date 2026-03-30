@@ -60,7 +60,7 @@ The first version of this graphical tool, designed to navigate the newly release
 
 
 ### **Genome Browser**
-See an overview of the Genome Browser interface, highlighting its layout, navigation, and key functional elements at [this link](.
+See an overview of the Genome Browser interface, highlighting its layout, navigation, and key functional elements at [this link](https://github.com/maghetta/teaching/blob/2b66786ddff304090013a51e7272b18e9514d661/navigare_i_genomi/2.%20A%20spasso%20nel%20tuo%20genoma__selected_pages.pdf).
 
 
 
