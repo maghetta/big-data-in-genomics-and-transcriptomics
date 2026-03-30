@@ -71,5 +71,5 @@ head(mtcars_sorted)
 
 **References**
 
-- UCSC video tutorials and training material <a href="https://genome.ucsc.edu/training/">https://genome.ucsc.edu/training/</a>
+- **UCSC Genome Browser – video tutorials and training materials** <a href="https://genome.ucsc.edu/training/">https://genome.ucsc.edu/training/</a>
 
