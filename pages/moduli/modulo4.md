@@ -18,13 +18,9 @@ By the end of this activity, you should be able to:
 
     - Visualize a genomic locus in the UCSC Genome Browser and identify key genomic features (e.g., genes, exons, regulatory elements)
     - Customize the genomic view by selecting desired annotation tracks (e.g. variation, genes annotated by GENCODE) and deselecting unwanted ones (e.g.  
-    - Map an unknown DNA sequence to a reference genome using a genome browser and interpret its genomic context (e.g., gene location, nearby features) 
-    Retrieve a list of all human genes annotated with a given GO (Gene Ontology) term
-    Describe the scope of a differential expression analysis
-    Describe the scope of a functional enrichment analysis
-    Identify differentially expressed genes in the GSE8671 dataset
-    Retrieve enriched functional annotations for a gene list of interest using the gProfiler webtool
-
+    - Map an unknown DNA sequence to a reference genome using a genome browser and interpret its genomic context (e.g., gene location, nearby features)
+    - Load and visualize a custom track of genomic intervals in the UCSC Genome Browser
+    - Assemble a custom BED file for selected genomic features of interest
 
 
 
@@ -37,12 +33,16 @@ The first version of this graphical tool, designed to navigate the newly release
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo4/jimkent.png" width="800"> <br>
   <em> A still from a short video on the history of the UCSC Genome Browser and its role in the Human Genome Project, available <a href="https://youtu.be/_6caCfvMIiY?si=pmTY4fWuTc1i1nmV">here: https://youtu.be/_6caCfvMIiY?si=pmTY4fWuTc1i1nmV</a>
-</div>
-<br>
+</div><br><br><br>
 
 
 ## Navigating Genomic Information: the UCSC Genome Browser
 
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/ucsc1.png" width="800"> <br>
+  <em> Access the UCSC Genome Browser data portal <a href="https://genome.ucsc.edu">here: https://genome.ucsc.edu/</a>
+</div><br><br><br>
 
 
 ## Core Tools at UCSC:
@@ -60,13 +60,7 @@ The first version of this graphical tool, designed to navigate the newly release
 
 
 ```
-# Installazione del pacchetto dplyr (da eseguire una sola volta)
-install.packages("dplyr")
-Caricamento del Pacchetto
-Una volta installato, puoi caricare il pacchetto dplyr utilizzando library().
-```
-mtcars_sorted <- arrange(mtcars, desc(hp))
-head(mtcars_sorted)
+# 
 ```
 
 **References**
