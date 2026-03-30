@@ -79,14 +79,35 @@ See an overview of the Genome Browser interface, highlighting its layout, naviga
 </div><br><br><br>
 
 
-
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo4/Screenshot from 2026-03-30 11-00-44.png" width="800"> <br>
 </div><br><br><br>
 
-
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo4/Screenshot from 2026-03-30 11-01-02.png" width="800"> <br>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-01-24.png" width="800"> <br>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-01-58.png" width="800"> <br>
+</div><br><br><br>
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-02-25.png" width="800"> <br>
+</div><br><br><br>
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-02-39.png" width="800"> <br>
+</div><br><br><br>
+
+
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/modulo4/Screenshot from 2026-03-30 11-03-02.png" width="800"> <br>
 </div><br><br><br>
 
 
