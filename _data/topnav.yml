@@ -11,9 +11,9 @@ subitems:
       url: /modulo2
     - title: Genomic Databases and Resources
       url: /modulo3
-    - title: International Consortia and Large-Scale Omics Projects
-      url: /modulo4
     - title: Genome browsers
+      url: /modulo4
+    - title: International Consortia and Large-Scale Omics Projects
       url: /modulo5
 
     
