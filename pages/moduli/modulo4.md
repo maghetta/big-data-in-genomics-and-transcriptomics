@@ -111,6 +111,14 @@ See <a href="https://sites.google.com/uniroma1.it/laboratorio-di-bioinformatica/
 - *Attività: crea un file BED per una lista di geni di interesse*<br><br><br><br>
 
 
+## Check PCR primers by using the in-silico PCR tool available at the UCSC genome browser
+Try the behaviour of the tool (top menu --> tools --> in-silico PCR) by using the Human genome assembly hg38 and the folloeing primers: <br>
+
+- Forward primer: CATCCGCAAAGACCTGTACG
+- Reverse primer: CCTGCTTGCTGATCCACATC
+
+
+
 
 **References**<br><br>
 
