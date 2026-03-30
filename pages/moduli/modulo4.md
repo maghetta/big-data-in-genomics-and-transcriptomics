@@ -100,10 +100,6 @@ See an overview of the Genome Browser interface, highlighting its layout, naviga
   <img src="images/modulo4/Screenshot from 2026-03-30 11-02-39.png" width="800"> <br>
 </div><br><br><br>
 
-<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
-  <img src="images/modulo4/Screenshot from 2026-03-30 11-03-02.png" width="800"> <br>
-</div><br><br><br>
-
 
 ## How to: find sequence matches to the genome (BLAT) and create and upload a custom BED file to the UCSC Genome Browser<br><br>
 See <a href="https://sites.google.com/uniroma1.it/laboratorio-di-bioinformatica/moduli-tematici/modulo-4">here</a><br><br> the following activities: <br>
@@ -114,8 +110,8 @@ See <a href="https://sites.google.com/uniroma1.it/laboratorio-di-bioinformatica/
 ## Check PCR primers by using the in-silico PCR tool available at the UCSC genome browser
 Try the behaviour of the tool (top menu --> tools --> in-silico PCR) by using the Human genome assembly hg38 and the folloeing primers: <br>
 
-- Forward primer: CATCCGCAAAGACCTGTACG
-- Reverse primer: CCTGCTTGCTGATCCACATC
+- Forward primer: CATCCGCAAAGACCTGTACG <br>
+- Reverse primer: CCTGCTTGCTGATCCACATC <br>
 
 
 
