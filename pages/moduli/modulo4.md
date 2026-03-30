@@ -41,7 +41,7 @@ The first version of this graphical tool, designed to navigate the newly release
 
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/modulo4/ucsc1.png" width="800"> <br>
-  <em> Access the UCSC Genome Browser data portal <a href="https://genome.ucsc.edu">here: https://genome.ucsc.edu/</a>
+  <em> Access the UCSC Genome Browser data portal <a href="https://genome.ucsc.edu">here: https://genome.ucsc.edu/</a><em> 
 </div><br><br><br>
 
 
