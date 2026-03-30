@@ -9,10 +9,9 @@ title: Modulo 5
 ## Topics
 From the Human Genome Project to Large-Scale Genomic Consortia
 
+One of the enduring legacies of the Human Genome Project has been the recognition of the power of joining forces, driving a lasting shift toward large-scale, collaborative initiatives. Among others:
 
-- One of the enduring legacies of the Human Genome Project has been the recognition of the power of joining forces, driving a lasting shift toward large-scale, collaborative initiatives. Among others:
-
-  - ENCODE – functional annotation of regulatory elements in the genome
+- ENCODE – functional annotation of regulatory elements in the genome
 - 1000 Genomes Project – global catalog of human genetic variation
 - The Cancer Genome Atlas – molecular characterization of cancer genomes
 - gnomAD – population-scale allele frequency resource
@@ -22,5 +21,3 @@ From the Human Genome Project to Large-Scale Genomic Consortia
 - Human Cell Atlas – comprehensive reference of human cell types
 
 
-
-- 
