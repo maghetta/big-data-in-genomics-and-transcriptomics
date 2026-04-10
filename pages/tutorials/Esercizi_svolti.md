@@ -1,4 +1,4 @@
-# 1. Sequenza ignota
+# Esercizio n. 1: Sequenza ignota
 
 Considerando la seguente sequenza di DNA umano:
 
@@ -16,4 +16,8 @@ Lezione di Lunedì 30 Marzo 2026. Argomento: UCSC genome browser. [Link al mater
 
 Svolgimento:<br>
 
-
+(a.) dove mappa sul genoma? e con quali coordinate genomiche?<br>
+- apri una finestra del browser e collegati allo UCSC Genome Browser: 👉 https://genome.ucsc.edu/
+- dalla barra dei menù in alto seleziona “Genomes” → “Human GRCh38/hg38”, per impostare come genoma di riferimento la versione attualmente più usata del genoma umano (GRCh38)
+- nella pagina del browser genomico che si apre, dalla barra dei menù in alto seleziona “Tools” → “BLAT”, lo strumento che consente di mappare una sequenza nucleotidica o proteica e ricercarne i match sul genoma umano
+- nella pagina del tool Blat che si apre, incolla la sequenza ignota data nella finestra di ricerca, verifica che il genoma di riferimento sia impostato su Human (GRCh38/hg38) e avvia la ricerca
