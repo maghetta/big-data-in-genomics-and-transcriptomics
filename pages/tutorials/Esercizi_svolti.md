@@ -36,4 +36,11 @@ Nella finestra di visualizzazione visualizzata a schermo:
 - rimuovere tutte le tracce non necessarie dalla finestra di visualizzazione, impostandone la visibilità su “hide” tramite il relativo menù (menù cui si accede con clic sul tasto destro del mouse in corrispondenza della barra laterale, tutto sulla sinistra, della traccia da eliminare).
 - una volta definita la finestra di visualizzazione in modo opportuno per visulaizzare sia il match della sequenza ignota cercata, sia il gene annotato in questa regione (BRCA1), fare una foto allo schermo utilizzando il tasto “Stamp“ sulla tastiera, o altra applicazione per fare foto allo schermo, come nella immagine di esempio mostrata qui sotto.
 
+ 
+<div style="border:1px solid #ccc; padding:10px; display:inline-block;">
+  <img src="images/esercizio_1.png" width="800"> <br>
+</div>
+<br>
+
+
 
