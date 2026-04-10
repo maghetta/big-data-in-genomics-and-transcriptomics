@@ -15,6 +15,10 @@ subitems:
       url: /modulo4
     - title: International Consortia and Large-Scale Omics Projects
       url: /modulo5
+- title: Esercizi
+  subitems:
+    - title: Esercizi svolti
+      url: /esercizisvolti
 
     
 
