@@ -22,7 +22,7 @@ Lezione di lunedì 30 Marzo 2026. Argomento: UCSC genome browser. [Link al mater
 **Svolgimento:**<br>
 
 (a.) *dove mappa sul genoma? e con quali coordinate genomiche?*<br>
-- apri una finestra del browser e collegati allo UCSC Genome Browser: 👉 https://genome.ucsc.edu/
+- apri una finestra del browser e collegati allo UCSC Genome Browser: 👉 [https://genome.ucsc.edu/](https://genome.ucsc.edu/)
 - dalla barra dei menù in alto seleziona “Genomes” → “Human GRCh38/hg38”, per impostare come genoma di riferimento la versione attualmente più usata del genoma umano (GRCh38)
 - nella pagina del browser genomico che si apre, dalla barra dei menù in alto seleziona “Tools” → “BLAT”, lo strumento che consente di mappare una sequenza nucleotidica o proteica e ricercarne i match sul genoma umano
 - nella pagina del tool Blat che si apre, incolla la sequenza ignota data nella finestra di ricerca, verifica che il genoma di riferimento sia impostato su Human (GRCh38/hg38) e avvia la ricerca premendo sul tasto "Submit"
@@ -53,7 +53,7 @@ Nella finestra di visualizzazione visualizzata a schermo:
 
 # Esercizio n. 2: Sequenza ignota
 
-**Quanti geni codificanti per proteine sono attualmente annotati nel genoma murino? Quale considereresti una buona stima del numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?**<br><br><br>
+**Quanti geni codificanti per proteine sono attualmente annotati nel genoma murino? Quale considereresti una buona stima del numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni? Il numero medio di trascritti alternativi annotati nel genoma murino e in quello umano è simile?**<br><br><br>
 
 
 **Riferimento:**<br>
@@ -65,11 +65,13 @@ Lezione di giovedì 26 Marzo 2026. Argomento: la banca dati GENCODE. [Link al ma
 - apri una finestra del browser sulla pagina principale della banca dati GENCODE: 👉 [https://www.gencodegenes.org/](https://www.gencodegenes.org/)
 - dalla schermata principale, seleziona “Mouse”, per accedere alle annotazioni genomiche curate di questo organismo della banca dati GENCODE (Release M38/GRCm39)
 - nella pagina delle annotazioni GENCODE curate del genoma murino, seleziona la voce “Statistics of this release” presente in alto nella pagina.
-- nella pagina riassuntiva delle statistiche che si apre, individua le conte corrispondenti alla voce “Protein-coding genes“ → N=21,530 nella versione corrente (Release M38/GRCm39).
+- nella pagina riassuntiva delle statistiche che si apre, individua le conte corrispondenti alla voce “Protein-coding genes“ → N = 21,530 nella versione corrente (Release M38/GRCm39).
 
 *Quale considereresti una buona stima del numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?*<br>
 - una buona stima del numero medio di trascritti alternativi annotati per i geni di topo codificanti per proteine è data semplicemente dal rapporto tra il numero di trascritti protein-coding e il numero di geni protein-coding. Avendo già determinato il numero di geni protein-coding annotati nel topo nella versione corrente di GENCODE (Release M38/GRCm39), possiamo analogamente ottenere il numero di trascritti protein-coding annotati nello stesso genoma.
-- nella stessa pagina riassuntiva delle statistiche delle annotazioni murine appena consultata, individua le conte corrispondenti alla voce “Protein-coding transcripts“ → N=58,647 nella versione corrente (Release M38/GRCm39).
-- stima il numero medio di trascritti alternativi annotati per i geni di topo codificanti per proteine calcolando il rapporto tra: [numero di trascritti protein-coding] / [numero di geni protein-coding] → N≈3
+- nella stessa pagina riassuntiva delle statistiche delle annotazioni murine appena consultata, individua le conte corrispondenti alla voce “Protein-coding transcripts“ → N = 58,647 nella versione corrente (Release M38/GRCm39).
+- stima il numero medio di trascritti alternativi annotati per i geni di topo codificanti per proteine calcolando il rapporto tra: [numero di trascritti protein-coding] / [numero di geni protein-coding] → N ≈ 3
 
-
+*Il numero medio di trascritti alternativi annotati nel genoma murino e in quello umano è simile?* <br>
+- Ripeti i passaggi appena svolti qui sopra per ottenere sia il numero di trascritti protein-coding sia quello dei geni protein-coding annotati nella versione corrente della banca dati GENCODE riguardante il genoma umano (Release 49).
+- stima, come già fatto per il genoma murino, il numero medio di trascritti alternativi annotati nel genoma umano per i geni codificanti per proteine: il valore che si ottiene (N ≈ 11) è oltre tre volte maggiore rispetto al genoma di topo. Per quanto ciò possa in parte essere dovuto a un bias nelle annotazioni (più complete nell’uomo grazie a una maggiore ricchezza di studi), è lecito ipotizzare che la maggiore complessità dell’organismo umano rispetto al topo si rifletta in una maggiore complessità e variabilità dello splicing.
