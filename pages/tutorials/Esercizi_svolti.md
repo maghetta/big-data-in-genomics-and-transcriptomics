@@ -51,7 +51,7 @@ Nella finestra di visualizzazione visualizzata a schermo:
 
 
 
-# Esercizio n. 2: Sequenza ignota
+# Esercizio n. 2: Annotazioni geniche (GENCODE)
 
 **Quanti geni codificanti per proteine sono attualmente annotati nel genoma murino? Quale considereresti una buona stima del numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni? Il numero medio di trascritti alternativi annotati nel genoma murino e in quello umano è simile?**<br><br><br>
 
