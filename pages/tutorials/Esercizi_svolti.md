@@ -1,3 +1,8 @@
+---
+title: Esercizi Svolti
+---
+
+
 # Esercizio n. 1: Sequenza ignota
 
 Considerando la seguente sequenza di DNA umano:
