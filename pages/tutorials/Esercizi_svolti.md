@@ -36,7 +36,7 @@ Svolgimento:<br>
 
 (d.) produrre una immagine della risorsa utilizzata per rispondere, che supporti le risposte date ai punti (b) e (c).<br>
 Nella finestra di visualizzazione visualizzata a schermo:
-- aggiustare lo zoom sul genoma (utilizzando i tasti “Zoom in“ |1.5x|3x|10x|Base e “Zoom out“ |1.5x|3x|10x|100x|) in modo che  siano ben visibile tutta la nostra sequenza mappata con Blat
+- aggiustare lo zoom sul genoma (utilizzando i tasti “Zoom in“ [1.5x\|3x\|10x\|Base] e “Zoom out“ [1.5x\|3x\|10x\|100x]) in modo che  siano ben visibile tutta la nostra sequenza mappata con Blat
 - assicurarsi che sia visibile almeno una traccia di annotazione genica (ad esempio: GENCODE V49 e HUGO Gene Nomencalture, come nell'esempio mostrato qui sotto).
 - rimuovere tutte le tracce non necessarie dalla finestra di visualizzazione, impostandone la visibilità su “hide” tramite il relativo menù (menù cui si accede con clic sul tasto destro del mouse in corrispondenza della barra laterale, tutto sulla sinistra, della traccia da eliminare).
 - una volta definita la finestra di visualizzazione in modo opportuno per visulaizzare sia il match della sequenza ignota cercata, sia il gene annotato in questa regione (BRCA1), fare una foto allo schermo utilizzando il tasto “Stamp“ sulla tastiera, o altra applicazione per fare foto allo schermo, come nella immagine di esempio mostrata qui sotto.
@@ -47,5 +47,5 @@ Nella finestra di visualizzazione visualizzata a schermo:
 </div>
 <br>
 
-
+|
 
