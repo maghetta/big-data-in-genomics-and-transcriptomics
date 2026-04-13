@@ -75,3 +75,7 @@ Lezione di giovedì 26 Marzo 2026. Argomento: la banca dati GENCODE. [Link al ma
 *Il numero medio di trascritti alternativi annotati nel genoma murino e in quello umano è simile?* <br>
 - Ripeti i passaggi appena svolti qui sopra per ottenere sia il numero di trascritti protein-coding sia quello dei geni protein-coding annotati nella versione corrente della banca dati GENCODE riguardante il genoma umano (Release 49).
 - stima, come già fatto per il genoma murino, il numero medio di trascritti alternativi annotati nel genoma umano per i geni codificanti per proteine: il valore che si ottiene (N ≈ 11) è oltre tre volte maggiore rispetto al genoma di topo. Per quanto ciò possa in parte essere dovuto a un bias nelle annotazioni (più complete nell’uomo grazie a una maggiore ricchezza di studi), è lecito ipotizzare che la maggiore complessità dell’organismo umano rispetto al topo si rifletta in una maggiore complessità e variabilità dello splicing.
+<br><br>
+
+---
+
