@@ -53,7 +53,7 @@ Nella finestra di visualizzazione visualizzata a schermo:
 
 # Esercizio n. 2: Sequenza ignota
 
-**Quanti geni codificanti per proteine sono attualmente annotati nel genoma murino? Qual'è il numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?**<br><br><br>
+**Quanti geni codificanti per proteine sono attualmente annotati nel genoma murino? Quale considereresti una buona stima del numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?**<br><br><br>
 
 
 **Riferimento:**<br>
@@ -67,6 +67,9 @@ Lezione di giovedì 26 Marzo 2026. Argomento: la banca dati GENCODE. [Link al ma
 - nella pagina delle annotazioni GENCODE curate del genoma murino, seleziona la voce “Statistics of this release” presente in alto nella pagina.
 - nella pagina riassuntiva delle statistiche che si apre, individua le conte corrispondenti alla voce “Protein-coding genes“ → N=21,530 nella versione corrente (Release M38/GRCm39).
 
-*Qual'è il numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?*<br>
+*Quale considereresti una buona stima del numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?*<br>
+- una buona stima del numero medio di trascritti alternativi annotati per i geni di topo codificanti per proteine è data semplicemente dal rapporto tra il numero di trascritti protein-coding e il numero di geni protein-coding. Avendo già determinato il numero di geni protein-coding annotati nel topo nella versione corrente di GENCODE (Release M38/GRCm39), possiamo analogamente ottenere il numero di trascritti protein-coding annotati nello stesso genoma.
+- nella stessa pagina riassuntiva delle statistiche delle annotazioni murine appena consultata, individua le conte corrispondenti alla voce “Protein-coding transcripts“ → N=58,647 nella versione corrente (Release M38/GRCm39).
+- stima il numero medio di trascritti alternativi annotati per i geni di topo codificanti per proteine calcolando il rapporto tra: [numero di trascritti protein-coding] / [numero di geni protein-coding] → N≈3
 
 
