@@ -5,7 +5,7 @@ title: Esercizi Svolti
 
 # Esercizio n. 1: Sequenza ignota
 
-Considerando la seguente sequenza di DNA umano:
+**Considerando la seguente sequenza di DNA umano:**
 
 5'-ACCCCAAGGGACTAATTCATGGTTGTTCCAAAGATAATAGAAATGACACA-3'
 
@@ -17,7 +17,7 @@ c. se è parte di un gene umano, cade in una porzione esonica o intronica?<br>
 d. produrre una immagine della risorsa utilizzata per rispondere, che supporti le risposte date ai punti (b) e (c).<br><br><br>
 
 **Riferimento:**<br>
-Lezione di Lunedì 30 Marzo 2026. Argomento: UCSC genome browser. [Link al materiale](https://maghetta.github.io/big-data-in-genomics-and-transcriptomics/modulo4)<br><br><br>
+Lezione di lunedì 30 Marzo 2026. Argomento: UCSC genome browser. [Link al materiale](https://maghetta.github.io/big-data-in-genomics-and-transcriptomics/modulo4)<br><br><br>
 
 **Svolgimento:**<br>
 
@@ -45,7 +45,28 @@ Nella finestra di visualizzazione visualizzata a schermo:
 <div style="border:1px solid #ccc; padding:10px; display:inline-block;">
   <img src="images/esercizio_1.png" width="800"> <br>
 </div>
-<br><br><br>
+<br><br>
 
 ---
+
+
+
+# Esercizio n. 2: Sequenza ignota
+
+**Quanti geni codificanti per proteine sono attualmente annotati nel genoma murino? Qual'è il numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?**<br><br><br>
+
+
+**Riferimento:**<br>
+Lezione di giovedì 26 Marzo 2026. Argomento: la banca dati GENCODE. [Link al materiale](https://maghetta.github.io/big-data-in-genomics-and-transcriptomics/modulo1)<br><br><br>
+
+**Svolgimento:**<br>
+
+*Quanti geni codificanti per proteine sono attualmente annotati nel genoma murino?*<br>
+- apri una finestra del browser sulla pagina principale della banca dati GENCODE: 👉 [https://www.gencodegenes.org/](https://www.gencodegenes.org/)
+- dalla schermata principale, seleziona “Mouse”, per accedere alle annotazioni genomiche curate di questo organismo della banca dati GENCODE (Release M38/GRCm39)
+- nella pagina delle annotazioni GENCODE curate del genoma murino, seleziona la voce “Statistics of this release” presente in alto nella pagina.
+- nella pagina riassuntiva delle statistiche che si apre, individua le conte corrispondenti alla voce “Protein-coding genes“ → N=21,530 nella versione corrente (Release M38/GRCm39).
+
+*Qual'è il numero medio di trascritti alternativi annotati nel genoma murino per questa categoria di geni?*<br>
+
 
